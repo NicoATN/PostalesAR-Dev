@@ -346,31 +346,6 @@
       "name": "Cilindro (4)",
       "order": 11.27758792445781,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
-    },
-    "3793f583-401a-4b08-a674-9de0ce0786e2": {
-      "id": "3793f583-401a-4b08-a674-9de0ce0786e2",
-      "position": [
-        0,
-        1.0839823559201853,
-        0.667509434722964
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "geometry": null,
-      "material": null,
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
-      "components": {},
-      "name": "UVA_CAMAIRONA-Retiro.jpg",
-      "order": 13.103062699540859
     }
   },
   "spaces": {
