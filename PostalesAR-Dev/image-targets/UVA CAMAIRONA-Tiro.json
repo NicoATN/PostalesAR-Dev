@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/UVA CAMAIRONA-Tiro_luminance.jpg",
+  "metadata": null,
+  "name": "UVA CAMAIRONA-Tiro",
+  "resources": {
+    "originalImage": "UVA CAMAIRONA-Tiro_original.jpg",
+    "croppedImage": "UVA CAMAIRONA-Tiro_cropped.jpg",
+    "thumbnailImage": "UVA CAMAIRONA-Tiro_thumbnail.jpg",
+    "luminanceImage": "UVA CAMAIRONA-Tiro_luminance.jpg"
+  },
+  "created": 1792044867724,
+  "updated": 1792044867724
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/UVA CAMAIRONA-Retiro_luminance.jpg",
+  "metadata": null,
+  "name": "UVA CAMAIRONA-Retiro",
+  "resources": {
+    "originalImage": "UVA CAMAIRONA-Retiro_original.jpg",
+    "croppedImage": "UVA CAMAIRONA-Retiro_cropped.jpg",
+    "thumbnailImage": "UVA CAMAIRONA-Retiro_thumbnail.jpg",
+    "luminanceImage": "UVA CAMAIRONA-Retiro_luminance.jpg"
+  },
+  "created": 1792044911248,
+  "updated": 1792044911248
+}
