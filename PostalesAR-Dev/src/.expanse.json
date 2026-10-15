@@ -66,7 +66,8 @@
         1
       ],
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
-      "order": 1.4038940050501252
+      "order": 1.4038940050501252,
+      "hidden": true
     },
     "a608ddd9-9379-464d-966f-5d8d8674c83c": {
       "camera": {
@@ -136,7 +137,7 @@
       "position": [
         0,
         0.6495633758515218,
-        0
+        -2.575985496465754
       ],
       "rotation": [
         0,
@@ -153,7 +154,7 @@
       "material": null,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
-      "name": "Objetivo de la imagen",
+      "name": "Uva Camairona tiro",
       "imageTarget": {
         "name": "UVA CAMAIRONA-Tiro"
       },
@@ -162,7 +163,7 @@
     "332e61de-88ca-4f1f-aba4-aee2d5c09d3c": {
       "id": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c",
       "position": [
-        1.1376040027325711,
+        0.09277796400873028,
         0.65430782164714,
         0
       ],
@@ -181,7 +182,7 @@
       "material": null,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
-      "name": "Objetivo de la imagen (1)",
+      "name": "Uva Camairona retiro",
       "imageTarget": {
         "name": "UVA CAMAIRONA-Retiro"
       },
@@ -212,7 +213,8 @@
       },
       "material": {
         "type": "basic",
-        "color": "#FFFFFF"
+        "color": "#FFFFFF",
+        "textureSrc": null
       },
       "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c",
       "components": {},
@@ -346,6 +348,42 @@
       "name": "Cilindro (4)",
       "order": 11.27758792445781,
       "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
+    },
+    "d0fc2575-4226-4401-9064-3e7646bebf66": {
+      "id": "d0fc2575-4226-4401-9064-3e7646bebf66",
+      "position": [
+        -0.24210085769974166,
+        0.7726618024293909,
+        0.09256072673729379
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.7111342724833402,
+        0.7030562185910815
+      ],
+      "scale": [
+        0.4366044260110073,
+        0.27969869528666264,
+        0.4428713608432017
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Uva_Caimarona_2.png"
+        }
+      },
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "Plano",
+      "order": 5.3655893317864125
     }
   },
   "spaces": {
