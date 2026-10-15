@@ -218,7 +218,7 @@
       },
       "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c",
       "components": {},
-      "name": "Cilindro",
+      "name": "Origen",
       "order": 5.493782238499071
     },
     "d904f4c0-26ef-4448-93f4-7f9486e7f4e7": {
@@ -249,7 +249,7 @@
         "color": "#FFFFFF"
       },
       "components": {},
-      "name": "Cilindro (1)",
+      "name": "cosecha",
       "order": 6.574618393835733,
       "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
     },
@@ -281,7 +281,7 @@
         "color": "#FFFFFF"
       },
       "components": {},
-      "name": "Cilindro (2)",
+      "name": "preparacion",
       "order": 8.3364815480184,
       "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
     },
@@ -313,7 +313,7 @@
         "color": "#FFFFFF"
       },
       "components": {},
-      "name": "Cilindro (3)",
+      "name": "consumo responsable",
       "order": 10.089859895324821,
       "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
     },
@@ -345,7 +345,7 @@
         "color": "#FFFFFF"
       },
       "components": {},
-      "name": "Cilindro (4)",
+      "name": "consiguelo desde casa",
       "order": 11.27758792445781,
       "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
     },
@@ -378,7 +378,8 @@
         "textureSrc": {
           "type": "asset",
           "asset": "assets/Uva_Caimarona_2.png"
-        }
+        },
+        "forceTransparent": true
       },
       "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c",
       "components": {},
@@ -414,7 +415,9 @@
         "textureSrc": {
           "type": "asset",
           "asset": "assets/Uva_Caimarona_1.png"
-        }
+        },
+        "emissiveColor": "#ffffff",
+        "forceTransparent": true
       },
       "parentId": "0a513ce9-1d35-41d8-b630-88a256c9ab63",
       "components": {},

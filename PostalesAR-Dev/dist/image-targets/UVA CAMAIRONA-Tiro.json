@@ -1,10 +1,10 @@
 {
   "type": "PLANAR",
   "properties": {
-    "top": 98,
+    "top": 97,
     "left": 0,
     "width": 1181,
-    "height": 1574,
+    "height": 1575,
     "isRotated": true,
     "originalWidth": 1181,
     "originalHeight": 1772
@@ -19,5 +19,5 @@
     "luminanceImage": "UVA CAMAIRONA-Tiro_luminance.jpg"
   },
   "created": 1792044867724,
-  "updated": 1792044867724
+  "updated": 1792087195020
 }
