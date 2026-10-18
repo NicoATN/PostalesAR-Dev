@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/tiro chontaduro_luminance.jpg",
+  "metadata": null,
+  "name": "tiro chontaduro",
+  "resources": {
+    "originalImage": "tiro chontaduro_original.jpg",
+    "croppedImage": "tiro chontaduro_cropped.jpg",
+    "thumbnailImage": "tiro chontaduro_thumbnail.jpg",
+    "luminanceImage": "tiro chontaduro_luminance.jpg"
+  },
+  "created": 1792285414285,
+  "updated": 1792285414285
+}

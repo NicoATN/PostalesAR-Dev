@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/tiro canangucha_luminance.jpg",
+  "metadata": null,
+  "name": "tiro canangucha",
+  "resources": {
+    "originalImage": "tiro canangucha_original.jpg",
+    "croppedImage": "tiro canangucha_cropped.jpg",
+    "thumbnailImage": "tiro canangucha_thumbnail.jpg",
+    "luminanceImage": "tiro canangucha_luminance.jpg"
+  },
+  "created": 1792286162817,
+  "updated": 1792286162817
+}

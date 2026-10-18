@@ -723,6 +723,107 @@
       },
       "order": 6.683904802904007,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
+    },
+    "3d089293-4b1e-4a1c-b6b4-074fed1b3ac0": {
+      "id": "3d089293-4b1e-4a1c-b6b4-074fed1b3ac0",
+      "position": [
+        -0.009037289465518183,
+        0.00971569545828288,
+        0.04725906023445359
+      ],
+      "rotation": [
+        -2.6606238767712414e-8,
+        0,
+        0,
+        0.9999999999999996
+      ],
+      "scale": [
+        1,
+        1.0000000532124818,
+        1.0000000532124818
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Videos Chroma/aves.mp4"
+        }
+      },
+      "parentId": "93940ac6-0fce-4705-b9ed-955d26bb4725",
+      "components": {
+        "c222679d-07f9-464c-b49f-5c3dba2f6833": {
+          "id": "c222679d-07f9-464c-b49f-5c3dba2f6833",
+          "name": "Chroma Key",
+          "parameters": {
+            "keyRed": 0,
+            "keyGreen": 187,
+            "keyBlue": 35,
+            "tolerance": 0.12
+          }
+        }
+      },
+      "name": "aves canangucha",
+      "order": 11.606157667803226,
+      "videoControls": {
+        "loop": true
+      },
+      "hidden": false
+    },
+    "da856dde-6a63-4767-9190-19f9789bea84": {
+      "id": "da856dde-6a63-4767-9190-19f9789bea84",
+      "position": [
+        0.0012815336215012962,
+        0.00971569545828288,
+        0.04725906023445359
+      ],
+      "rotation": [
+        -2.6606238767712414e-8,
+        0,
+        0,
+        0.9999999999999996
+      ],
+      "scale": [
+        1,
+        1.0000000532124818,
+        1.0000000532124818
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Videos Chroma/aves.mp4"
+        }
+      },
+      "components": {
+        "c222679d-07f9-464c-b49f-5c3dba2f6833": {
+          "id": "c222679d-07f9-464c-b49f-5c3dba2f6833",
+          "name": "Chroma Key",
+          "parameters": {
+            "keyRed": 0,
+            "keyGreen": 187,
+            "keyBlue": 35,
+            "tolerance": 0.12
+          }
+        }
+      },
+      "name": "aves araza",
+      "order": 13.308942190894767,
+      "videoControls": {
+        "loop": true
+      },
+      "parentId": "41af06c0-8701-4828-9342-325a1720b5eb"
     }
   },
   "spaces": {
