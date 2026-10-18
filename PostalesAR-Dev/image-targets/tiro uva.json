@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/tiro uva_luminance.jpg",
+  "metadata": null,
+  "name": "tiro uva",
+  "resources": {
+    "originalImage": "tiro uva_original.jpg",
+    "croppedImage": "tiro uva_cropped.jpg",
+    "thumbnailImage": "tiro uva_thumbnail.jpg",
+    "luminanceImage": "tiro uva_luminance.jpg"
+  },
+  "created": 1792285668091,
+  "updated": 1792285668091
+}

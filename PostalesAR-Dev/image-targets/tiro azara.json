@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/tiro azara_luminance.jpg",
+  "metadata": null,
+  "name": "tiro azara",
+  "resources": {
+    "originalImage": "tiro azara_original.jpg",
+    "croppedImage": "tiro azara_cropped.jpg",
+    "thumbnailImage": "tiro azara_thumbnail.jpg",
+    "luminanceImage": "tiro azara_luminance.jpg"
+  },
+  "created": 1792286111340,
+  "updated": 1792286111340
+}

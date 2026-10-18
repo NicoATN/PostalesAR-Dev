@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/tiro aji negro_luminance.jpg",
+  "metadata": null,
+  "name": "tiro aji negro",
+  "resources": {
+    "originalImage": "tiro aji negro_original.jpg",
+    "croppedImage": "tiro aji negro_cropped.jpg",
+    "thumbnailImage": "tiro aji negro_thumbnail.jpg",
+    "luminanceImage": "tiro aji negro_luminance.jpg"
+  },
+  "created": 1792286020513,
+  "updated": 1792286020513
+}
