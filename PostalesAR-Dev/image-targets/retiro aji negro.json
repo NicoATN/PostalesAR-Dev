@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/retiro aji negro_luminance.jpg",
+  "metadata": null,
+  "name": "retiro aji negro",
+  "resources": {
+    "originalImage": "retiro aji negro_original.jpg",
+    "croppedImage": "retiro aji negro_cropped.jpg",
+    "thumbnailImage": "retiro aji negro_thumbnail.jpg",
+    "luminanceImage": "retiro aji negro_luminance.jpg"
+  },
+  "created": 1792443911791,
+  "updated": 1792443911791
+}

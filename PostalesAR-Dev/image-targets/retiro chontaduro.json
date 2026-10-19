@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/retiro chontaduro_luminance.jpg",
+  "metadata": null,
+  "name": "retiro chontaduro",
+  "resources": {
+    "originalImage": "retiro chontaduro_original.jpg",
+    "croppedImage": "retiro chontaduro_cropped.jpg",
+    "thumbnailImage": "retiro chontaduro_thumbnail.jpg",
+    "luminanceImage": "retiro chontaduro_luminance.jpg"
+  },
+  "created": 1792445122928,
+  "updated": 1792445122928
+}

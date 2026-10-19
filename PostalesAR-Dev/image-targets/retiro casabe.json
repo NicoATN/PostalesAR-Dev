@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/retiro casabe_luminance.jpg",
+  "metadata": null,
+  "name": "retiro casabe",
+  "resources": {
+    "originalImage": "retiro casabe_original.jpg",
+    "croppedImage": "retiro casabe_cropped.jpg",
+    "thumbnailImage": "retiro casabe_thumbnail.jpg",
+    "luminanceImage": "retiro casabe_luminance.jpg"
+  },
+  "created": 1792445099349,
+  "updated": 1792445099349
+}

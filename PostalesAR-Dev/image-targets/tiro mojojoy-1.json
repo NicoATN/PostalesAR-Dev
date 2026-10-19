@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/tiro mojojoy-1_luminance.jpg",
+  "metadata": null,
+  "name": "tiro mojojoy-1",
+  "resources": {
+    "originalImage": "tiro mojojoy-1_original.jpg",
+    "croppedImage": "tiro mojojoy-1_cropped.jpg",
+    "thumbnailImage": "tiro mojojoy-1_thumbnail.jpg",
+    "luminanceImage": "tiro mojojoy-1_luminance.jpg"
+  },
+  "created": 1792443864932,
+  "updated": 1792443864932
+}

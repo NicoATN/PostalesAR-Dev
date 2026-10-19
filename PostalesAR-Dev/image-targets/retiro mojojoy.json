@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/retiro mojojoy_luminance.jpg",
+  "metadata": null,
+  "name": "retiro mojojoy",
+  "resources": {
+    "originalImage": "retiro mojojoy_original.jpg",
+    "croppedImage": "retiro mojojoy_cropped.jpg",
+    "thumbnailImage": "retiro mojojoy_thumbnail.jpg",
+    "luminanceImage": "retiro mojojoy_luminance.jpg"
+  },
+  "created": 1792443895033,
+  "updated": 1792443895033
+}
