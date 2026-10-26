@@ -473,7 +473,7 @@
     "33564249-5cb5-4fae-a393-1b8beba4a39a": {
       "id": "33564249-5cb5-4fae-a393-1b8beba4a39a",
       "position": [
-        -0.5640856343869272,
+        -0.7776046512187617,
         0.09775953113632707,
         1.3885037126980184
       ],
@@ -503,7 +503,7 @@
       "position": [
         0.6502669941244299,
         0.09199641780909118,
-        1.3885037126980184
+        1.3866506152040055
       ],
       "rotation": [
         -0.7071067811865475,
@@ -521,28 +521,28 @@
       "components": {},
       "name": "Mojojoy retiro",
       "imageTarget": {
-        "name": "retiro mojojoy"
+        "name": "retiro mojojoy-1"
       },
       "order": 6.683904802904007,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
     },
-    "3d089293-4b1e-4a1c-b6b4-074fed1b3ac0": {
-      "id": "3d089293-4b1e-4a1c-b6b4-074fed1b3ac0",
+    "c40ab8c8-8640-41e6-8cdb-e7ab4cd37811": {
+      "id": "c40ab8c8-8640-41e6-8cdb-e7ab4cd37811",
       "position": [
-        0.002294095422048281,
-        0.0039009572511283785,
-        0.016489018830166402
+        -0.03173214054205109,
+        -0.20005855451902987,
+        0.007038668450942379
       ],
       "rotation": [
-        -2.8120394121219272e-8,
+        -2.660623932282392e-8,
         0,
         0,
-        0.9999999999999996
+        0.9999999999999997
       ],
       "scale": [
-        1.5966368199775096,
-        0.932499385875968,
-        1.596636904938515
+        0.0987535341104756,
+        0.09875353936539637,
+        0.09875353936539637
       ],
       "geometry": {
         "type": "plane",
@@ -553,1339 +553,783 @@
         "type": "unlit",
         "color": "#FFFFFF",
         "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Videos Chroma/aves.mp4"
-        }
-      },
-      "parentId": "93940ac6-0fce-4705-b9ed-955d26bb4725",
-      "components": {
-        "c222679d-07f9-464c-b49f-5c3dba2f6833": {
-          "id": "c222679d-07f9-464c-b49f-5c3dba2f6833",
-          "name": "Chroma Key",
-          "parameters": {
-            "keyRed": 0,
-            "keyGreen": 187,
-            "keyBlue": 35,
-            "tolerance": 0.12
-          }
-        }
-      },
-      "name": "aves canangucha",
-      "order": 11.606157667803226,
-      "videoControls": {
-        "loop": true
-      },
-      "hidden": false
-    },
-    "da856dde-6a63-4767-9190-19f9789bea84": {
-      "id": "da856dde-6a63-4767-9190-19f9789bea84",
-      "position": [
-        0.0012815336215026285,
-        0.0039009572511274904,
-        0.047259060234453476
-      ],
-      "rotation": [
-        -2.8120394121219272e-8,
-        0,
-        0,
-        0.9999999999999996
-      ],
-      "scale": [
-        1.5295026027730791,
-        0.8932903337414463,
-        1.5295026841617065
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 1
-      },
-      "material": {
-        "type": "unlit",
-        "color": "#FFFFFF",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Videos Chroma/aves.mp4"
-        }
-      },
-      "components": {
-        "c222679d-07f9-464c-b49f-5c3dba2f6833": {
-          "id": "c222679d-07f9-464c-b49f-5c3dba2f6833",
-          "name": "Chroma Key",
-          "parameters": {
-            "keyRed": 0,
-            "keyGreen": 187,
-            "keyBlue": 35,
-            "tolerance": 0.12
-          }
-        }
-      },
-      "name": "aves araza",
-      "order": 13.308942190894767,
-      "videoControls": {
-        "loop": true
-      },
-      "parentId": "41af06c0-8701-4828-9342-325a1720b5eb"
-    },
-    "51b5958b-2e61-49ed-9c35-cb39508b44e9": {
-      "id": "51b5958b-2e61-49ed-9c35-cb39508b44e9",
-      "position": [
-        -0.03175467292204226,
-        -0.19853399735295252,
-        0.02620191174201919
-      ],
-      "rotation": [
-        1.1102230246251565e-16,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "parentId": "017e50aa-6404-44b1-9498-269e78147804",
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
           "type": "asset",
           "asset": "assets/Icons/iconos_app_semilla.png"
         },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
+        "forceTransparent": true
       },
-      "name": "origen",
-      "order": 12.219036834776384
+      "parentId": "017e50aa-6404-44b1-9498-269e78147804",
+      "components": {
+        "c54a3732-4b08-4eab-88c6-49baf4c6c0d3": {
+          "id": "c54a3732-4b08-4eab-88c6-49baf4c6c0d3",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "b36e5023-7ca6-4bee-b3c0-28ee8ee3eb7b"
+            },
+            "enabled": true
+          }
+        }
+      },
+      "name": "Origen",
+      "order": 12.475714007248977,
+      "hidden": false
     },
-    "778cdf4f-658b-4839-91e5-1f17093d48b6": {
-      "id": "778cdf4f-658b-4839-91e5-1f17093d48b6",
+    "b36e5023-7ca6-4bee-b3c0-28ee8ee3eb7b": {
+      "id": "b36e5023-7ca6-4bee-b3c0-28ee8ee3eb7b",
       "position": [
-        0.081218769210753,
-        -0.19853399735295252,
-        0.02620191174201919
+        0.4149923911625004,
+        2.287878447649577,
+        0.10670435249120813
       ],
       "rotation": [
-        1.1102230246251565e-16,
+        -3.683280884122184e-9,
         0,
         0,
         1
       ],
       "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
+        5.767652121005232,
+        2.611703627866145,
+        4.807224026315834
       ],
-      "geometry": null,
-      "material": null,
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Origen_mojojoy.jpg"
+        }
+      },
+      "parentId": "c40ab8c8-8640-41e6-8cdb-e7ab4cd37811",
       "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
+      "name": "Informacion origen",
+      "order": 14.129369905642086
+    },
+    "0c01959c-6b92-46c1-bc6b-83aa0451b342": {
+      "id": "0c01959c-6b92-46c1-bc6b-83aa0451b342",
+      "position": [
+        0.39661263042756056,
+        0.2775052849951303,
+        0.009884244252427982
+      ],
+      "rotation": [
+        5.19954539742224e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.1135431947274973,
+        0.2422814137311535,
+        0.1374810874277888
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "b36e5023-7ca6-4bee-b3c0-28ee8ee3eb7b",
+      "components": {
+        "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2": {
+          "id": "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "b36e5023-7ca6-4bee-b3c0-28ee8ee3eb7b"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar",
+      "order": 11.913881185902245,
+      "hidden": false
+    },
+    "a116cb78-c276-4208-905c-3d4ab2e3a358": {
+      "id": "a116cb78-c276-4208-905c-3d4ab2e3a358",
+      "position": [
+        0.25413043016799675,
+        0.2729776307035774,
+        0.007741448084259528
+      ],
+      "rotation": [
+        6.244122109069541e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.1547084843473257,
+        0.3330651050141784,
+        0.1997913563250988
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_bocina.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "b36e5023-7ca6-4bee-b3c0-28ee8ee3eb7b",
+      "components": {},
+      "name": "sonido",
+      "order": 12.319044092482192,
+      "hidden": false
+    },
+    "9c791947-3561-419c-9c36-841b87128057": {
+      "id": "9c791947-3561-419c-9c36-841b87128057",
+      "position": [
+        0.08381284628070051,
+        -0.19886137940152193,
+        0.006605650690619774
+      ],
+      "rotation": [
+        -2.6606239322823917e-8,
+        0,
+        0,
+        0.9999999999999997
+      ],
+      "scale": [
+        0.09884532774006242,
+        0.0988453329998677,
+        0.0988453329998677
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
           "type": "asset",
           "asset": "assets/Icons/icono_gusano.png"
         },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
+        "forceTransparent": true
       },
-      "name": "recoleccion",
-      "order": 13.42513803136622,
-      "parentId": "017e50aa-6404-44b1-9498-269e78147804"
+      "parentId": "017e50aa-6404-44b1-9498-269e78147804",
+      "components": {
+        "6375e192-7be6-49fc-ad1f-ed590d4aa4ff": {
+          "id": "6375e192-7be6-49fc-ad1f-ed590d4aa4ff",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "4f9bc8c6-cc39-4fb1-a964-5e968992cf20"
+            }
+          }
+        }
+      },
+      "name": "Recoleccion",
+      "order": 13.852379698762846,
+      "hidden": false
     },
-    "27688191-59d2-46d6-befa-667f74b746de": {
-      "id": "27688191-59d2-46d6-befa-667f74b746de",
+    "4f9bc8c6-cc39-4fb1-a964-5e968992cf20": {
+      "id": "4f9bc8c6-cc39-4fb1-a964-5e968992cf20",
       "position": [
-        0.19510632978203912,
-        -0.19853399735295252,
-        0.02620191174201919
+        -0.75371173147572,
+        2.2758238191145903,
+        0.2533495447829113
       ],
       "rotation": [
-        1.1102230246251565e-16,
+        -7.64145136056284e-9,
+        0,
+        0,
+        0.9999999999999998
+      ],
+      "scale": [
+        5.755996535596804,
+        2.5936762758922605,
+        5.75599653559681
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Recoleccion_mojojoy.jpg"
+        }
+      },
+      "parentId": "9c791947-3561-419c-9c36-841b87128057",
+      "components": {
+        "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c": {
+          "id": "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "9c791947-3561-419c-9c36-841b87128057"
+            }
+          }
+        }
+      },
+      "name": "Info recoleccion",
+      "order": 15.404390284581476,
+      "hidden": false
+    },
+    "ed420e86-e3c2-42af-85de-9977e35a2828": {
+      "id": "ed420e86-e3c2-42af-85de-9977e35a2828",
+      "position": [
+        0.3972383193878237,
+        0.2653488778865265,
+        0.0022579017089362496
+      ],
+      "rotation": [
+        1.0200751761790408e-8,
+        0,
+        0,
+        0.9999999999999999
+      ],
+      "scale": [
+        0.10217672370650688,
+        0.22675492432877423,
+        0.1021767237065072
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "4f9bc8c6-cc39-4fb1-a964-5e968992cf20",
+      "components": {
+        "5f0f0842-7a24-48c0-b5d4-60b3129b6b63": {
+          "id": "5f0f0842-7a24-48c0-b5d4-60b3129b6b63",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "4f9bc8c6-cc39-4fb1-a964-5e968992cf20"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar",
+      "order": 16.83764277603101
+    },
+    "239c5e0a-3d85-45bc-847f-b9cc1ea8bf6e": {
+      "id": "239c5e0a-3d85-45bc-847f-b9cc1ea8bf6e",
+      "position": [
+        0.25478701022708306,
+        0.26205661675959124,
+        0.0024332494246263603
+      ],
+      "rotation": [
+        1.0200751465377877e-8,
         0,
         0,
         1
       ],
       "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
+        0.14755173204020208,
+        0.32745306973690796,
+        0.14755173204020247
       ],
-      "geometry": null,
-      "material": null,
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_bocina.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "4f9bc8c6-cc39-4fb1-a964-5e968992cf20",
       "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
+      "name": "Sonido",
+      "order": 18.654284319890127,
+      "hidden": false
+    },
+    "13f3fe2d-f2ca-4736-ac4d-58e4677f7f73": {
+      "id": "13f3fe2d-f2ca-4736-ac4d-58e4677f7f73",
+      "position": [
+        0.19877827966453943,
+        -0.19689473561611104,
+        0.00704199256049759
+      ],
+      "rotation": [
+        -2.6606240211002333e-8,
+        0,
+        0,
+        0.9999999999999996
+      ],
+      "scale": [
+        0.10131483752528334,
+        0.10131484291649742,
+        0.10131484291649742
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
           "type": "asset",
           "asset": "assets/Icons/iconos_app_olla.png"
         },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
+        "forceTransparent": true
       },
-      "name": "preparacion",
-      "order": 14.825377088739634,
-      "parentId": "017e50aa-6404-44b1-9498-269e78147804"
+      "parentId": "017e50aa-6404-44b1-9498-269e78147804",
+      "components": {
+        "6c92e3dc-eae0-41e3-b691-1c68a646ad76": {
+          "id": "6c92e3dc-eae0-41e3-b691-1c68a646ad76",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "12621fd4-699c-4bb1-94b0-52403c7ec81d"
+            }
+          }
+        }
+      },
+      "name": "Preparacion",
+      "order": 15.143129210609093,
+      "hidden": false
     },
-    "1818184a-aa9d-4a43-9508-6ebac7392a1f": {
-      "id": "1818184a-aa9d-4a43-9508-6ebac7392a1f",
+    "12621fd4-699c-4bb1-94b0-52403c7ec81d": {
+      "id": "12621fd4-699c-4bb1-94b0-52403c7ec81d",
       "position": [
-        0.31248640885602585,
-        -0.19853399735295252,
-        0.02620191174201919
+        -1.86123843305906,
+        2.1621798247730517,
+        0.18012703479570624
       ],
       "rotation": [
-        1.1102230246251565e-16,
+        -9.321243221727136e-9,
         0,
         0,
         1
       ],
       "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
+        5.583932370539435,
+        2.527106572969421,
+        5.705613953997515
       ],
-      "geometry": null,
-      "material": null,
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Preparacion_mojojoy.jpg"
+        }
+      },
+      "parentId": "13f3fe2d-f2ca-4736-ac4d-58e4677f7f73",
+      "components": {
+        "202dc573-4244-4edb-81a7-a54b03b165b0": {
+          "id": "202dc573-4244-4edb-81a7-a54b03b165b0",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "13f3fe2d-f2ca-4736-ac4d-58e4677f7f73"
+            }
+          }
+        }
+      },
+      "name": "Info preparacion",
+      "order": 16.92091066165077
+    },
+    "43116f59-396e-4b1d-874c-3e53a9f08aba": {
+      "id": "43116f59-396e-4b1d-874c-3e53a9f08aba",
+      "position": [
+        0.39486940050544694,
+        0.2646209021040127,
+        0.008347633920001596
+      ],
+      "rotation": [
+        1.2586854833505765e-8,
+        0,
+        0,
+        0.9999999999999999
+      ],
+      "scale": [
+        0.11366763053996488,
+        0.2511616915739414,
+        0.11124348173081876
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "12621fd4-699c-4bb1-94b0-52403c7ec81d",
+      "components": {
+        "a32c508b-497f-4ec8-a7ad-017cef00d4fb": {
+          "id": "a32c508b-497f-4ec8-a7ad-017cef00d4fb",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "12621fd4-699c-4bb1-94b0-52403c7ec81d"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar",
+      "order": 18.036193398765775
+    },
+    "ccd70563-5219-4f40-a99b-5a0378827ddc": {
+      "id": "ccd70563-5219-4f40-a99b-5a0378827ddc",
+      "position": [
+        0.24962403783117448,
+        0.26765454865976235,
+        0.0054125837731870685
+      ],
+      "rotation": [
+        1.2586854383751981e-8,
+        0,
+        0,
+        0.9999999999999999
+      ],
+      "scale": [
+        0.1614308571011605,
+        0.3567000292796924,
+        0.15798807908122448
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_bocina.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "12621fd4-699c-4bb1-94b0-52403c7ec81d",
       "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
+      "name": "Sonido",
+      "order": 19.563118187993872
+    },
+    "7ce9f6fa-b750-4b85-aadd-5ddb5cab395c": {
+      "id": "7ce9f6fa-b750-4b85-aadd-5ddb5cab395c",
+      "position": [
+        0.31322293787027455,
+        -0.19627437987005125,
+        0.0075493193131181
+      ],
+      "rotation": [
+        -2.6606240655091553e-8,
+        0,
+        0,
+        0.9999999999999996
+      ],
+      "scale": [
+        0.1022547933945203,
+        0.1022547988357518,
+        0.1022547988357518
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
           "type": "asset",
           "asset": "assets/Icons/iconos_app_responsable.png"
         },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
+        "forceTransparent": true
       },
-      "name": "consumo",
-      "order": 16.49395353656807,
-      "parentId": "017e50aa-6404-44b1-9498-269e78147804"
+      "parentId": "017e50aa-6404-44b1-9498-269e78147804",
+      "components": {
+        "aff59e1d-69a3-4547-9b9b-e73602d26c37": {
+          "id": "aff59e1d-69a3-4547-9b9b-e73602d26c37",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "c7f1ce3f-8459-43e6-975a-6736cd26e798"
+            }
+          }
+        }
+      },
+      "name": "Consumo Resposable",
+      "order": 16.790342234072696
     },
-    "2f15eaf9-716e-44e6-b1bb-ac62bfaa03b4": {
-      "id": "2f15eaf9-716e-44e6-b1bb-ac62bfaa03b4",
+    "c7f1ce3f-8459-43e6-975a-6736cd26e798": {
+      "id": "c7f1ce3f-8459-43e6-975a-6736cd26e798",
       "position": [
-        0.42314118941280454,
-        -0.19853399735295252,
-        0.02620191174201919
+        -2.9692760420338438,
+        2.151071252016324,
+        0.29147678186951786
       ],
       "rotation": [
-        1.1102230246251565e-16,
+        -6.528681373296766e-9,
         0,
         0,
         1
       ],
       "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
+        5.532450691966397,
+        2.509817955177022,
+        5.532450691966374
       ],
-      "geometry": null,
-      "material": null,
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consumo_mojojoy.jpg"
+        }
+      },
+      "parentId": "7ce9f6fa-b750-4b85-aadd-5ddb5cab395c",
+      "components": {
+        "2afe0ff3-f18b-41e1-bf00-cf38a62c3299": {
+          "id": "2afe0ff3-f18b-41e1-bf00-cf38a62c3299",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "7ce9f6fa-b750-4b85-aadd-5ddb5cab395c"
+            },
+            "activateOnClick": true
+          }
+        }
+      },
+      "name": "Info consumo",
+      "order": 18.698610566588084
+    },
+    "c7be912d-d738-4826-b3f6-fed2f8d23b68": {
+      "id": "c7be912d-d738-4826-b3f6-fed2f8d23b68",
+      "position": [
+        0.3867572071198182,
+        0.2622413374930055,
+        0.00677323104082328
+      ],
+      "rotation": [
+        8.676545309030648e-9,
+        0,
+        0,
+        0.9999999999999999
+      ],
+      "scale": [
+        0.11336617412373666,
+        0.24989572139394936,
+        0.11336617412373697
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "c7f1ce3f-8459-43e6-975a-6736cd26e798",
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "c7f1ce3f-8459-43e6-975a-6736cd26e798"
+            }
+          }
+        }
+      },
+      "name": "cerrar",
+      "order": 18.576515945890137
+    },
+    "f4ec01cd-53ec-4d5f-bdd9-28c130313cbd": {
+      "id": "f4ec01cd-53ec-4d5f-bdd9-28c130313cbd",
+      "position": [
+        0.23407069325213703,
+        0.2569216889384105,
+        0.015255915242747553
+      ],
+      "rotation": [
+        8.67654383355678e-9,
+        0,
+        0,
+        0.9999999999999999
+      ],
+      "scale": [
+        0.16203578099272717,
+        0.35717927940845395,
+        0.16203578099272772
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_bocina.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "c7f1ce3f-8459-43e6-975a-6736cd26e798",
       "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
+      "name": "Sonido",
+      "order": 20.160030337692156
+    },
+    "da7f613b-ae23-47e1-909d-7068a25b42f8": {
+      "id": "da7f613b-ae23-47e1-909d-7068a25b42f8",
+      "position": [
+        0.4358984206827563,
+        -0.1975651299888581,
+        0.006460235269671516
+      ],
+      "rotation": [
+        -2.660623887873471e-8,
+        0,
+        0,
+        0.9999999999999997
+      ],
+      "scale": [
+        0.09941746567662382,
+        0.09941747096687388,
+        0.09941747096687388
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
           "type": "asset",
           "asset": "assets/Icons/iconos_app_maceta.png"
         },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
+        "forceTransparent": true
       },
-      "name": "consiguelo",
-      "order": 18.14255992531205,
-      "parentId": "017e50aa-6404-44b1-9498-269e78147804"
+      "parentId": "017e50aa-6404-44b1-9498-269e78147804",
+      "components": {},
+      "name": "consiguelo en casa",
+      "order": 18.746915320950027
     },
-    "a6b604af-5ed2-4204-aa28-8ff3b8c445e6": {
-      "id": "a6b604af-5ed2-4204-aa28-8ff3b8c445e6",
+    "65a5f049-b29f-4c69-8673-a8615cb66ae0": {
+      "id": "65a5f049-b29f-4c69-8673-a8615cb66ae0",
       "position": [
-        -0.034432165077131316,
-        -0.19975669154999193,
-        0.014929197504914185
+        0.17298003580697868,
+        -0.0008000704799968616,
+        0.0488163053626999
       ],
       "rotation": [
+        -2.9448448807017844e-8,
         0,
         0,
-        0,
-        1
+        0.9999999999999996
       ],
       "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
+        1.1311602197384494,
+        0.6598909990398693,
+        1.1311602799302902
       ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_semilla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
       },
-      "name": "origen (1)",
-      "order": 6.592489792149655,
-      "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
-    },
-    "66af3d1e-3b9a-476d-be42-3a127b9dd06f": {
-      "id": "66af3d1e-3b9a-476d-be42-3a127b9dd06f",
-      "position": [
-        0.07854127705566416,
-        -0.19975669154999193,
-        0.014929197504914185
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
           "type": "asset",
-          "asset": "assets/Icons/chontaduro.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
+          "asset": "assets/Videos Chroma/Animacion_mojojoy.mp4"
+        }
       },
-      "name": "recoleccion (1)",
-      "order": 6.598970012014539,
-      "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
-    },
-    "db472fa6-d79b-4472-ae44-b18f129e73bb": {
-      "id": "db472fa6-d79b-4472-ae44-b18f129e73bb",
-      "position": [
-        0.19242883762695007,
-        -0.19975669154999193,
-        0.014929197504914185
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_olla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
+      "parentId": "33564249-5cb5-4fae-a393-1b8beba4a39a",
+      "components": {
+        "a6163a7c-e245-4a2e-ac8c-6197c3d51f42": {
+          "id": "a6163a7c-e245-4a2e-ac8c-6197c3d51f42",
+          "name": "Chroma Key",
+          "parameters": {
+            "keyRed": 0,
+            "keyGreen": 255,
+            "keyBlue": 28
+          }
+        }
       },
-      "name": "preparacion (1)",
-      "order": 6.6054502318794235,
-      "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
-    },
-    "054b5efb-7888-4c72-860a-ebdbd9f9d2a9": {
-      "id": "054b5efb-7888-4c72-860a-ebdbd9f9d2a9",
-      "position": [
-        0.3098089167009368,
-        -0.19975669154999193,
-        0.014929197504914185
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_responsable.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consumo (1)",
-      "order": 6.611930451744309,
-      "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
-    },
-    "68ab62c0-0e4b-48b1-8686-947427c65334": {
-      "id": "68ab62c0-0e4b-48b1-8686-947427c65334",
-      "position": [
-        0.4204636972577154,
-        -0.19975669154999193,
-        0.014929197504914185
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_maceta.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consiguelo (1)",
-      "order": 6.618410671609193,
-      "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
-    },
-    "4dc5f22d-4297-4228-b3bd-e2db7000d674": {
-      "id": "4dc5f22d-4297-4228-b3bd-e2db7000d674",
-      "position": [
-        -0.03688846090876696,
-        -0.20103805630267435,
-        0.01803737377934543
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_semilla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "origen (2)",
-      "order": 7.03140788072844,
-      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
-    },
-    "e575d0f9-685f-47b5-bc5b-1322d392777b": {
-      "id": "e575d0f9-685f-47b5-bc5b-1322d392777b",
-      "position": [
-        0.07608498122402851,
-        -0.20103805630267435,
-        0.01803737377934543
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_aji.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "recoleccion (2)",
-      "order": 7.054829557117923,
-      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
-    },
-    "0f2324af-8ef2-4154-821f-9513e5ced0fd": {
-      "id": "0f2324af-8ef2-4154-821f-9513e5ced0fd",
-      "position": [
-        0.18997254179531442,
-        -0.20103805630267435,
-        0.01803737377934543
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_olla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "preparacion (2)",
-      "order": 7.078251233507407,
-      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
-    },
-    "b527d91a-612e-4231-bac7-ce1bca25fed1": {
-      "id": "b527d91a-612e-4231-bac7-ce1bca25fed1",
-      "position": [
-        0.30735262086930115,
-        -0.20103805630267435,
-        0.01803737377934543
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_responsable.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consumo (2)",
-      "order": 7.101672909896891,
-      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
-    },
-    "2e0a9ab6-f14e-4d3e-88da-977d02f88f9c": {
-      "id": "2e0a9ab6-f14e-4d3e-88da-977d02f88f9c",
-      "position": [
-        0.4180074014260797,
-        -0.20103805630267435,
-        0.01803737377934543
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_maceta.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consiguelo (2)",
-      "order": 7.125094586286373,
-      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
-    },
-    "cb5c2279-8d5a-4fb9-8bbc-b8eaf1458ad7": {
-      "id": "cb5c2279-8d5a-4fb9-8bbc-b8eaf1458ad7",
-      "position": [
-        -0.03194664028023819,
-        -0.20060607676372522,
-        0.018730103402033335
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_semilla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "origen (3)",
-      "order": 10.260938646213441,
-      "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
-    },
-    "0f794922-b93e-4836-9fc8-562fcc46a7bb": {
-      "id": "0f794922-b93e-4836-9fc8-562fcc46a7bb",
-      "position": [
-        0.08102680185255728,
-        -0.20060607676372522,
-        0.018730103402033335
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_canangucha.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "recoleccion (3)",
-      "order": 10.269906777152592,
-      "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
-    },
-    "2679003e-b334-45fe-a7c8-018c2963f363": {
-      "id": "2679003e-b334-45fe-a7c8-018c2963f363",
-      "position": [
-        0.1949143624238432,
-        -0.20060607676372522,
-        0.018730103402033335
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_olla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "preparacion (3)",
-      "order": 10.27887490809174,
-      "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
-    },
-    "5388c583-e1a0-433c-a52c-fd983d5ff6d9": {
-      "id": "5388c583-e1a0-433c-a52c-fd983d5ff6d9",
-      "position": [
-        0.3122944414978299,
-        -0.20060607676372522,
-        0.018730103402033335
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_responsable.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consumo (3)",
-      "order": 10.287843039030893,
-      "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
-    },
-    "776d2e23-07a7-4a04-9cf3-6b664c1a98af": {
-      "id": "776d2e23-07a7-4a04-9cf3-6b664c1a98af",
-      "position": [
-        0.4229492220546085,
-        -0.20060607676372522,
-        0.018730103402033335
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_maceta.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consiguelo (3)",
-      "order": 10.296811169970042,
-      "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
-    },
-    "621fad5b-b438-4afc-8d03-a69b47385aab": {
-      "id": "621fad5b-b438-4afc-8d03-a69b47385aab",
-      "position": [
-        -0.0331225438559386,
-        -0.2039578041748178,
-        0.04694138702392307
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_semilla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "origen (4)",
-      "order": 9.815245117272562,
-      "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
-    },
-    "3476d6df-959f-4852-9e53-1039cf32ad28": {
-      "id": "3476d6df-959f-4852-9e53-1039cf32ad28",
-      "position": [
-        0.07985089827685676,
-        -0.2039578041748178,
-        0.04694138702392307
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_azara.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "recoleccion (4)",
-      "order": 9.834068371986701,
-      "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
-    },
-    "ac29c4ae-bf2d-4096-8d01-670ec6087bee": {
-      "id": "ac29c4ae-bf2d-4096-8d01-670ec6087bee",
-      "position": [
-        0.1937384588481429,
-        -0.2039578041748178,
-        0.04694138702392307
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_olla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "preparacion (4)",
-      "order": 9.852891626700842,
-      "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
-    },
-    "380dee8a-2afb-46f2-80d1-4b7464c4af01": {
-      "id": "380dee8a-2afb-46f2-80d1-4b7464c4af01",
-      "position": [
-        0.3111185379221296,
-        -0.2039578041748178,
-        0.04694138702392307
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_responsable.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consumo (4)",
-      "order": 9.87171488141498,
-      "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
-    },
-    "401dc7ef-5aeb-47a2-bea4-ff6ce11d3a94": {
-      "id": "401dc7ef-5aeb-47a2-bea4-ff6ce11d3a94",
-      "position": [
-        0.4217733184789083,
-        -0.2039578041748178,
-        0.04694138702392307
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_maceta.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consiguelo (4)",
-      "order": 9.890538136129123,
-      "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
-    },
-    "55f9db56-3311-4bb2-8e2f-a5b11e00fe17": {
-      "id": "55f9db56-3311-4bb2-8e2f-a5b11e00fe17",
-      "position": [
-        -0.03976344952479971,
-        -0.19891822780890944,
-        0.030344911012421913
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_semilla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "origen (5)",
-      "order": 9.15576780188357,
-      "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
-    },
-    "665792b4-3bba-4dd4-a41c-dae309a301d0": {
-      "id": "665792b4-3bba-4dd4-a41c-dae309a301d0",
-      "position": [
-        0.07320999260799554,
-        -0.19891822780890944,
-        0.030344911012421913
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_yuca.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "recoleccion (5)",
-      "order": 9.161860316116528,
-      "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
-    },
-    "30cae7d0-bc69-4dc1-aba7-6bb8cb738d86": {
-      "id": "30cae7d0-bc69-4dc1-aba7-6bb8cb738d86",
-      "position": [
-        0.18709755317928167,
-        -0.19891822780890944,
-        0.030344911012421913
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_olla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "preparacion (5)",
-      "order": 9.167952830349485,
-      "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
-    },
-    "68beb547-cd6b-4579-aaf7-c10085883339": {
-      "id": "68beb547-cd6b-4579-aaf7-c10085883339",
-      "position": [
-        0.3044776322532684,
-        -0.19891822780890944,
-        0.030344911012421913
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_responsable.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consumo (5)",
-      "order": 9.174045344582442,
-      "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
-    },
-    "5591bff2-ff95-4263-807b-425aa896ab44": {
-      "id": "5591bff2-ff95-4263-807b-425aa896ab44",
-      "position": [
-        0.4151324128100471,
-        -0.19891822780890944,
-        0.030344911012421913
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_maceta.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consiguelo (5)",
-      "order": 9.1801378588154,
-      "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
-    },
-    "cf029a95-34e5-4a36-a34c-6fbe63dc86c9": {
-      "id": "cf029a95-34e5-4a36-a34c-6fbe63dc86c9",
-      "position": [
-        -0.03568214962025629,
-        -0.19745739998518624,
-        0.018159797735490105
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_semilla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "origen (6)",
-      "order": 4.587713188540898,
-      "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
-    },
-    "7d4d16b7-4e48-4364-989a-b15df742c600": {
-      "id": "7d4d16b7-4e48-4364-989a-b15df742c600",
-      "position": [
-        0.07729129251253897,
-        -0.19745739998518624,
-        0.018159797735490105
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/uva.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "recoleccion (6)",
-      "order": 4.704466676484605,
-      "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
-    },
-    "a67e6d92-c4a7-4e5b-9e4b-9db0c658cd65": {
-      "id": "a67e6d92-c4a7-4e5b-9e4b-9db0c658cd65",
-      "position": [
-        0.1911788530838251,
-        -0.19745739998518624,
-        0.018159797735490105
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_olla.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "preparacion (6)",
-      "order": 4.821220164428313,
-      "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
-    },
-    "9fddad97-6757-450c-800a-616db0432e22": {
-      "id": "9fddad97-6757-450c-800a-616db0432e22",
-      "position": [
-        0.3085589321578118,
-        -0.19745739998518624,
-        0.018159797735490105
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_responsable.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consumo (6)",
-      "order": 4.937973652372021,
-      "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
-    },
-    "36f96eb9-ad8c-425e-a915-3ad44fb292cf": {
-      "id": "36f96eb9-ad8c-425e-a915-3ad44fb292cf",
-      "position": [
-        0.4192137127145905,
-        -0.19745739998518624,
-        0.018159797735490105
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1317902685124117,
-        0.12713662547168544,
-        0.20279523243305406
-      ],
-      "geometry": null,
-      "material": null,
-      "components": {},
-      "ui": {
-        "type": "3d",
-        "width": 100,
-        "height": 100,
-        "image": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_app_maceta.png"
-        },
-        "backgroundOpacity": 1,
-        "backgroundSize": "contain"
-      },
-      "name": "consiguelo (6)",
-      "order": 5.054727140315728,
-      "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
+      "name": "animacion",
+      "order": 19.787765479121223
     }
   },
   "spaces": {
