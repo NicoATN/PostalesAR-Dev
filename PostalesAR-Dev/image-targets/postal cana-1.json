@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/postal cana-1_luminance.jpg",
+  "metadata": null,
+  "name": "postal cana-1",
+  "resources": {
+    "originalImage": "postal cana-1_original.jpg",
+    "croppedImage": "postal cana-1_cropped.jpg",
+    "thumbnailImage": "postal cana-1_thumbnail.jpg",
+    "luminanceImage": "postal cana-1_luminance.jpg"
+  },
+  "created": 1794183078773,
+  "updated": 1794183078773
+}

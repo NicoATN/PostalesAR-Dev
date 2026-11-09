@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/postal chontaduro-2_luminance.jpg",
+  "metadata": null,
+  "name": "postal chontaduro-2",
+  "resources": {
+    "originalImage": "postal chontaduro-2_original.jpg",
+    "croppedImage": "postal chontaduro-2_cropped.jpg",
+    "thumbnailImage": "postal chontaduro-2_thumbnail.jpg",
+    "luminanceImage": "postal chontaduro-2_luminance.jpg"
+  },
+  "created": 1794181230760,
+  "updated": 1794181230760
+}

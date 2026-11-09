@@ -1,20 +1,20 @@
 const onxrloaded = () => {
   XR8.XrController.configure({
     imageTargetData: [
-      require('../image-targets/tiro uva.json'),
-      require('../image-targets/tiro chontaduro.json'),
-      require('../image-targets/tiro casabe.json'),
-      require('../image-targets/tiro aji negro.json'),
-      require('../image-targets/tiro azara.json'),
-      require('../image-targets/tiro canangucha.json'),
-      require('../image-targets/tiro mojojoy.json'),
-      require('../image-targets/retiro mojojoy.json'),
-      require('../image-targets/retiro canagucha.json'),
-      require('../image-targets/retiro chontaduro.json'),
-      require('../image-targets/retiro azara.json'),
-      require('../image-targets/retiro casabe.json'),
-      require('../image-targets/retiro aji negro.json'),
-      require('../image-targets/retiro uva.json')
+      require('../image-targets/postal araza-1.json'),
+      require('../image-targets/postal araza-2.json'),
+      require('../image-targets/postal uva-1.json'),
+      require('../image-targets/postal uva-2.json'),
+      require('../image-targets/postal chontaduro-1.json'),
+      require('../image-targets/postal chontaduro-2.json'),
+      require('../image-targets/postal mojojoyy-1.json'),
+      require('../image-targets/postal mojojoyy-2.json'),
+      require('../image-targets/postal casabe-1.json'),
+      require('../image-targets/postal casabe-2.json'),
+      require('../image-targets/postal cana-1.json'),
+      require('../image-targets/postal cana-2.json'),
+      require('../image-targets/postal aji negro-1.json'),
+      require('../image-targets/postal aji negro-2.json')
     ],
   })
 }

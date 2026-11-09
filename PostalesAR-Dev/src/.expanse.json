@@ -156,9 +156,9 @@
       "components": {},
       "name": "Uva Camairona tiro",
       "imageTarget": {
-        "name": "tiro uva"
+        "name": "postal uva-1"
       },
-      "order": 2.6440814775546677,
+      "order": 7.732170670620226,
       "hidden": false
     },
     "332e61de-88ca-4f1f-aba4-aee2d5c09d3c": {
@@ -185,9 +185,9 @@
       "components": {},
       "name": "Uva Camairona retiro",
       "imageTarget": {
-        "name": "retiro uva"
+        "name": "postal uva-2"
       },
-      "order": 3.9930956061985126,
+      "order": 7.780436538336444,
       "hidden": false
     },
     "dcdf3a37-4073-43b1-ba03-6c81c8f967ce": {
@@ -214,9 +214,9 @@
       "components": {},
       "name": "Chontaduro Tiro",
       "imageTarget": {
-        "name": "tiro chontaduro"
+        "name": "postal chontaduro-1"
       },
-      "order": 5.904551983793226
+      "order": 2.5904119751132675
     },
     "ffa6b77e-9bee-4c16-bbd8-aeea0e90bac1": {
       "id": "ffa6b77e-9bee-4c16-bbd8-aeea0e90bac1",
@@ -242,9 +242,9 @@
       "components": {},
       "name": "Casabe tiro",
       "imageTarget": {
-        "name": "tiro casabe"
+        "name": "postal casabe-1"
       },
-      "order": 7.280218249156594
+      "order": 2.5176007598328067
     },
     "230388a2-efcf-4555-a651-b9b7c8fba3b1": {
       "id": "230388a2-efcf-4555-a651-b9b7c8fba3b1",
@@ -270,9 +270,9 @@
       "components": {},
       "name": "Casabe retiro",
       "imageTarget": {
-        "name": "retiro casabe"
+        "name": "postal casabe-2"
       },
-      "order": 8.95590114912089
+      "order": 2.5282403654163104
     },
     "4bd37af8-7c51-41a0-80c6-276a7ff1226b": {
       "id": "4bd37af8-7c51-41a0-80c6-276a7ff1226b",
@@ -298,9 +298,9 @@
       "components": {},
       "name": "Chontaduro retiro",
       "imageTarget": {
-        "name": "retiro chontaduro"
+        "name": "postal chontaduro-2"
       },
-      "order": 6.559238700448032
+      "order": 2.6076638984003795
     },
     "79f378e4-6b85-4892-9da4-6fedff7720ba": {
       "id": "79f378e4-6b85-4892-9da4-6fedff7720ba",
@@ -326,16 +326,16 @@
       "components": {},
       "name": "Aji negro tiro",
       "imageTarget": {
-        "name": "tiro aji negro"
+        "name": "postal aji negro-1"
       },
-      "order": 10.54245485532024
+      "order": 2.3258451677313285
     },
     "387ac8a5-dd0b-451d-a1e0-a709b016fbd2": {
       "id": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2",
       "position": [
         2.1276466789802626,
         0.09199641780909118,
-        -1.3185613623628698
+        -1.355491517409446
       ],
       "rotation": [
         -0.7071067811865475,
@@ -353,15 +353,15 @@
       "components": {},
       "name": "Aji negro retiro ",
       "imageTarget": {
-        "name": "retiro aji negro"
+        "name": "postal aji negro-2"
       },
-      "order": 6.917242189399744,
+      "order": 2.4612543798141813,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
     },
     "87f91761-53b4-4aae-8238-b7e9bde725cf": {
       "id": "87f91761-53b4-4aae-8238-b7e9bde725cf",
       "position": [
-        -0.6661334554582279,
+        -0.8698847500804651,
         0.07119092066394084,
         -2.702115810692926
       ],
@@ -381,9 +381,9 @@
       "components": {},
       "name": "Araza retiro",
       "imageTarget": {
-        "name": "retiro azara"
+        "name": "postal araza-2"
       },
-      "order": 9.73099770323978,
+      "order": 1.9095814153705377,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
     },
     "41af06c0-8701-4828-9342-325a1720b5eb": {
@@ -409,9 +409,9 @@
       "components": {},
       "name": "Araza tiro",
       "imageTarget": {
-        "name": "tiro azara"
+        "name": "postal araza-1"
       },
-      "order": 9.99269434051435,
+      "order": 1.7398202047049898,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
     },
     "2dd55dc5-a94c-45e7-bb55-5ea262ccc299": {
@@ -437,9 +437,9 @@
       "components": {},
       "name": "canangucha retiro",
       "imageTarget": {
-        "name": "retiro canagucha"
+        "name": "postal cana-2"
       },
-      "order": 10.227603306062598,
+      "order": 2.5695500474454134,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
     },
     "93940ac6-0fce-4705-b9ed-955d26bb4725": {
@@ -465,9 +465,9 @@
       "components": {},
       "name": "canangucha tiro",
       "imageTarget": {
-        "name": "tiro canangucha"
+        "name": "postal cana-1"
       },
-      "order": 10.32507214290937,
+      "order": 2.549519576583318,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
     },
     "33564249-5cb5-4fae-a393-1b8beba4a39a": {
@@ -493,7 +493,7 @@
       "components": {},
       "name": "Mojojoy Tiro",
       "imageTarget": {
-        "name": "tiro mojojoy-1"
+        "name": "postal mojojoyy-1"
       },
       "order": 6.666322187794984,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
@@ -521,7 +521,7 @@
       "components": {},
       "name": "Mojojoy retiro",
       "imageTarget": {
-        "name": "retiro mojojoy-1"
+        "name": "postal mojojoyy-2"
       },
       "order": 6.683904802904007,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
@@ -570,9 +570,14 @@
             },
             "enabled": true
           }
+        },
+        "1a753fbe-0f62-4e22-84ab-39018bf03c3a": {
+          "id": "1a753fbe-0f62-4e22-84ab-39018bf03c3a",
+          "name": "Panel Audio Manager",
+          "parameters": {}
         }
       },
-      "name": "Origen",
+      "name": "Origen mojojoy",
       "order": 12.475714007248977,
       "hidden": false
     },
@@ -608,26 +613,50 @@
         }
       },
       "parentId": "c40ab8c8-8640-41e6-8cdb-e7ab4cd37811",
-      "components": {},
-      "name": "Informacion origen",
-      "order": 14.129369905642086
+      "components": {
+        "6969a666-4855-4910-82cc-e9caf31b13b3": {
+          "id": "6969a666-4855-4910-82cc-e9caf31b13b3",
+          "name": "Audio Mute Button",
+          "parameters": {
+            "panelManager": {
+              "type": "entity",
+              "id": "c40ab8c8-8640-41e6-8cdb-e7ab4cd37811"
+            },
+            "panelEntity": {
+              "type": "entity",
+              "id": "b36e5023-7ca6-4bee-b3c0-28ee8ee3eb7b"
+            },
+            "soundOnIcon": {
+              "type": "entity",
+              "id": "a116cb78-c276-4208-905c-3d4ab2e3a358"
+            },
+            "mutedIcon": {
+              "type": "entity",
+              "id": "3f186268-a92d-4cab-a07e-bb4e3472e0fd"
+            }
+          }
+        }
+      },
+      "name": "Informacion origen mojojoy",
+      "order": 14.129369905642086,
+      "disabled": true
     },
     "0c01959c-6b92-46c1-bc6b-83aa0451b342": {
       "id": "0c01959c-6b92-46c1-bc6b-83aa0451b342",
       "position": [
-        0.39661263042756056,
+        0.4124501162908214,
         0.2775052849951303,
-        0.009884244252427982
+        0.009884244252427954
       ],
       "rotation": [
-        5.19954539742224e-9,
+        5.199545397422239e-9,
         0,
         0,
         1
       ],
       "scale": [
         0.1135431947274973,
-        0.2422814137311535,
+        0.24228141373115356,
         0.1374810874277888
       ],
       "geometry": {
@@ -658,46 +687,8 @@
           }
         }
       },
-      "name": "cerrar",
+      "name": "cerrar info mojojoy",
       "order": 11.913881185902245,
-      "hidden": false
-    },
-    "a116cb78-c276-4208-905c-3d4ab2e3a358": {
-      "id": "a116cb78-c276-4208-905c-3d4ab2e3a358",
-      "position": [
-        0.25413043016799675,
-        0.2729776307035774,
-        0.007741448084259528
-      ],
-      "rotation": [
-        6.244122109069541e-9,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.1547084843473257,
-        0.3330651050141784,
-        0.1997913563250988
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 1
-      },
-      "material": {
-        "type": "unlit",
-        "color": "#FFFFFF",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_bocina.png"
-        },
-        "forceTransparent": true
-      },
-      "parentId": "b36e5023-7ca6-4bee-b3c0-28ee8ee3eb7b",
-      "components": {},
-      "name": "sonido",
-      "order": 12.319044092482192,
       "hidden": false
     },
     "9c791947-3561-419c-9c36-841b87128057": {
@@ -745,7 +736,7 @@
           }
         }
       },
-      "name": "Recoleccion",
+      "name": "Recoleccion mojojoy",
       "order": 13.852379698762846,
       "hidden": false
     },
@@ -793,27 +784,28 @@
           }
         }
       },
-      "name": "Info recoleccion",
+      "name": "Info recoleccion mojojoy",
       "order": 15.404390284581476,
-      "hidden": false
+      "hidden": false,
+      "disabled": true
     },
     "ed420e86-e3c2-42af-85de-9977e35a2828": {
       "id": "ed420e86-e3c2-42af-85de-9977e35a2828",
       "position": [
-        0.3972383193878237,
+        0.41281760456358363,
         0.2653488778865265,
-        0.0022579017089362496
+        0.002257901708936222
       ],
       "rotation": [
-        1.0200751761790408e-8,
+        1.020075176179041e-8,
         0,
         0,
-        0.9999999999999999
+        1
       ],
       "scale": [
         0.10217672370650688,
-        0.22675492432877423,
-        0.1021767237065072
+        0.22675492432877417,
+        0.10217672370650717
       ],
       "geometry": {
         "type": "plane",
@@ -843,46 +835,8 @@
           }
         }
       },
-      "name": "cerrar",
+      "name": "cerrar recoleccion mojojoy",
       "order": 16.83764277603101
-    },
-    "239c5e0a-3d85-45bc-847f-b9cc1ea8bf6e": {
-      "id": "239c5e0a-3d85-45bc-847f-b9cc1ea8bf6e",
-      "position": [
-        0.25478701022708306,
-        0.26205661675959124,
-        0.0024332494246263603
-      ],
-      "rotation": [
-        1.0200751465377877e-8,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.14755173204020208,
-        0.32745306973690796,
-        0.14755173204020247
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 1
-      },
-      "material": {
-        "type": "unlit",
-        "color": "#FFFFFF",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_bocina.png"
-        },
-        "forceTransparent": true
-      },
-      "parentId": "4f9bc8c6-cc39-4fb1-a964-5e968992cf20",
-      "components": {},
-      "name": "Sonido",
-      "order": 18.654284319890127,
-      "hidden": false
     },
     "13f3fe2d-f2ca-4736-ac4d-58e4677f7f73": {
       "id": "13f3fe2d-f2ca-4736-ac4d-58e4677f7f73",
@@ -929,7 +883,7 @@
           }
         }
       },
-      "name": "Preparacion",
+      "name": "Preparacion mojojoy",
       "order": 15.143129210609093,
       "hidden": false
     },
@@ -977,26 +931,28 @@
           }
         }
       },
-      "name": "Info preparacion",
-      "order": 16.92091066165077
+      "name": "Info preparacion mojojoy",
+      "order": 16.92091066165077,
+      "hidden": false,
+      "disabled": true
     },
     "43116f59-396e-4b1d-874c-3e53a9f08aba": {
       "id": "43116f59-396e-4b1d-874c-3e53a9f08aba",
       "position": [
-        0.39486940050544694,
-        0.2646209021040127,
-        0.008347633920001596
+        0.41380359379092835,
+        0.2649419606082777,
+        0.008305379333913648
       ],
       "rotation": [
-        1.2586854833505765e-8,
+        1.258685483350576e-8,
         0,
         0,
-        0.9999999999999999
+        0.9999999999999998
       ],
       "scale": [
-        0.11366763053996488,
-        0.2511616915739414,
-        0.11124348173081876
+        0.10366653462924154,
+        0.22906312090260728,
+        0.10145567560740743
       ],
       "geometry": {
         "type": "plane",
@@ -1026,45 +982,8 @@
           }
         }
       },
-      "name": "cerrar",
+      "name": "cerrar preparacion mojojoy",
       "order": 18.036193398765775
-    },
-    "ccd70563-5219-4f40-a99b-5a0378827ddc": {
-      "id": "ccd70563-5219-4f40-a99b-5a0378827ddc",
-      "position": [
-        0.24962403783117448,
-        0.26765454865976235,
-        0.0054125837731870685
-      ],
-      "rotation": [
-        1.2586854383751981e-8,
-        0,
-        0,
-        0.9999999999999999
-      ],
-      "scale": [
-        0.1614308571011605,
-        0.3567000292796924,
-        0.15798807908122448
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 1
-      },
-      "material": {
-        "type": "unlit",
-        "color": "#FFFFFF",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_bocina.png"
-        },
-        "forceTransparent": true
-      },
-      "parentId": "12621fd4-699c-4bb1-94b0-52403c7ec81d",
-      "components": {},
-      "name": "Sonido",
-      "order": 19.563118187993872
     },
     "7ce9f6fa-b750-4b85-aadd-5ddb5cab395c": {
       "id": "7ce9f6fa-b750-4b85-aadd-5ddb5cab395c",
@@ -1111,7 +1030,7 @@
           }
         }
       },
-      "name": "Consumo Resposable",
+      "name": "Consumo Resposable mojojoy",
       "order": 16.790342234072696
     },
     "c7f1ce3f-8459-43e6-975a-6736cd26e798": {
@@ -1159,26 +1078,27 @@
           }
         }
       },
-      "name": "Info consumo",
-      "order": 18.698610566588084
+      "name": "Info consumo mojojoy",
+      "order": 18.698610566588084,
+      "disabled": true
     },
     "c7be912d-d738-4826-b3f6-fed2f8d23b68": {
       "id": "c7be912d-d738-4826-b3f6-fed2f8d23b68",
       "position": [
-        0.3867572071198182,
-        0.2622413374930055,
+        0.39870320390260394,
+        0.26224133749300726,
         0.00677323104082328
       ],
       "rotation": [
-        8.676545309030648e-9,
+        8.676545309030646e-9,
         0,
         0,
-        0.9999999999999999
+        1
       ],
       "scale": [
         0.11336617412373666,
-        0.24989572139394936,
-        0.11336617412373697
+        0.2498957213939494,
+        0.11336617412373698
       ],
       "geometry": {
         "type": "plane",
@@ -1208,45 +1128,8 @@
           }
         }
       },
-      "name": "cerrar",
+      "name": "cerrar c. r. mojojoy",
       "order": 18.576515945890137
-    },
-    "f4ec01cd-53ec-4d5f-bdd9-28c130313cbd": {
-      "id": "f4ec01cd-53ec-4d5f-bdd9-28c130313cbd",
-      "position": [
-        0.23407069325213703,
-        0.2569216889384105,
-        0.015255915242747553
-      ],
-      "rotation": [
-        8.67654383355678e-9,
-        0,
-        0,
-        0.9999999999999999
-      ],
-      "scale": [
-        0.16203578099272717,
-        0.35717927940845395,
-        0.16203578099272772
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 1
-      },
-      "material": {
-        "type": "unlit",
-        "color": "#FFFFFF",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Icons/iconos_bocina.png"
-        },
-        "forceTransparent": true
-      },
-      "parentId": "c7f1ce3f-8459-43e6-975a-6736cd26e798",
-      "components": {},
-      "name": "Sonido",
-      "order": 20.160030337692156
     },
     "da7f613b-ae23-47e1-909d-7068a25b42f8": {
       "id": "da7f613b-ae23-47e1-909d-7068a25b42f8",
@@ -1282,26 +1165,26 @@
       },
       "parentId": "017e50aa-6404-44b1-9498-269e78147804",
       "components": {},
-      "name": "consiguelo en casa",
+      "name": "consiguelo en casa mojojoy",
       "order": 18.746915320950027
     },
     "65a5f049-b29f-4c69-8673-a8615cb66ae0": {
       "id": "65a5f049-b29f-4c69-8673-a8615cb66ae0",
       "position": [
-        0.17298003580697868,
+        0.17298003580697874,
         -0.0008000704799968616,
         0.0488163053626999
       ],
       "rotation": [
-        -2.9448448807017844e-8,
+        -2.9448448901625578e-8,
         0,
         0,
         0.9999999999999996
       ],
       "scale": [
         1.1311602197384494,
-        0.6598909990398693,
-        1.1311602799302902
+        0.6598909990398691,
+        1.1311602799302904
       ],
       "geometry": {
         "type": "plane",
@@ -1324,12 +1207,3989 @@
           "parameters": {
             "keyRed": 0,
             "keyGreen": 255,
-            "keyBlue": 28
+            "keyBlue": 28,
+            "tolerance": 0.5
           }
         }
       },
-      "name": "animacion",
-      "order": 19.787765479121223
+      "name": "animacion mojojoy",
+      "order": 6.590653717362901,
+      "videoControls": {
+        "loop": true
+      }
+    },
+    "ec14d99b-292c-4929-87d5-b7e15c6ec006": {
+      "id": "ec14d99b-292c-4929-87d5-b7e15c6ec006",
+      "position": [
+        0.4217140559276029,
+        -0.18072184146531417,
+        0.00857258815488969
+      ],
+      "rotation": [
+        3.308722455836599e-24,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09795905204877822,
+        0.09795905726142241,
+        0.09795905726142241
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_maceta.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {},
+      "name": "consiguelo en casa Uva",
+      "order": 9.202673835875995,
+      "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
+    },
+    "f0fe5cf2-714c-4fbd-8d4a-829849e75d3d": {
+      "id": "f0fe5cf2-714c-4fbd-8d4a-829849e75d3d",
+      "position": [
+        -0.036364968078358206,
+        -0.18129178926799866,
+        0.006115741144473205
+      ],
+      "rotation": [
+        3.3087224497626204e-24,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09730486008761226,
+        0.09730486526544548,
+        0.09730486526544548
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_semilla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "c54a3732-4b08-4eab-88c6-49baf4c6c0d3": {
+          "id": "c54a3732-4b08-4eab-88c6-49baf4c6c0d3",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "c89b0745-a96c-4d54-ace2-ea90d8f21bd0"
+            },
+            "enabled": true
+          }
+        }
+      },
+      "name": "Origen Uva",
+      "order": 7.528695554653529,
+      "hidden": false,
+      "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
+    },
+    "c89b0745-a96c-4d54-ace2-ea90d8f21bd0": {
+      "id": "c89b0745-a96c-4d54-ace2-ea90d8f21bd0",
+      "position": [
+        0.4149923911625004,
+        2.287878447649577,
+        0.10670435249120813
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.767652121005232,
+        2.611703627866145,
+        4.807224026315834
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Origen_Uva_Caimarona.jpg"
+        }
+      },
+      "parentId": "f0fe5cf2-714c-4fbd-8d4a-829849e75d3d",
+      "components": {},
+      "name": "Informacion origen Uva",
+      "order": 2,
+      "disabled": true
+    },
+    "d4e6e88d-eae5-4ff0-bf54-277bef29e0d9": {
+      "id": "d4e6e88d-eae5-4ff0-bf54-277bef29e0d9",
+      "position": [
+        0.39661263042756056,
+        0.2775052849951303,
+        0.009884244252427982
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.1135431947274973,
+        0.2422814137311535,
+        0.1374810874277888
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "c89b0745-a96c-4d54-ace2-ea90d8f21bd0",
+      "components": {
+        "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2": {
+          "id": "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "c89b0745-a96c-4d54-ace2-ea90d8f21bd0"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar Uva",
+      "order": 3,
+      "hidden": false
+    },
+    "2e8c5ebd-48c1-439c-93bd-4afb197f1a04": {
+      "id": "2e8c5ebd-48c1-439c-93bd-4afb197f1a04",
+      "position": [
+        0.07748502096644083,
+        -0.1808651237014124,
+        0.007295354191831735
+      ],
+      "rotation": [
+        3.30872244057302e-24,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09739530714213374,
+        0.09739531232477981,
+        0.09739531232477981
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/uva.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6375e192-7be6-49fc-ad1f-ed590d4aa4ff": {
+          "id": "6375e192-7be6-49fc-ad1f-ed590d4aa4ff",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "1ca8da63-2c3d-4c01-8a6c-523030fd9550"
+            }
+          }
+        }
+      },
+      "name": "Recoleccion Uva",
+      "order": 7.630881255958158,
+      "hidden": false,
+      "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
+    },
+    "1ca8da63-2c3d-4c01-8a6c-523030fd9550": {
+      "id": "1ca8da63-2c3d-4c01-8a6c-523030fd9550",
+      "position": [
+        -0.75371173147572,
+        2.2758238191145903,
+        0.2533495447829113
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.755996535596804,
+        2.5936762758922605,
+        5.75599653559681
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Cosecha_Uva_Caimarona.jpg"
+        }
+      },
+      "parentId": "2e8c5ebd-48c1-439c-93bd-4afb197f1a04",
+      "components": {
+        "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c": {
+          "id": "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "2e8c5ebd-48c1-439c-93bd-4afb197f1a04"
+            }
+          }
+        }
+      },
+      "name": "Info recoleccion Uva",
+      "order": 6,
+      "hidden": false,
+      "disabled": true
+    },
+    "5b510e3d-e581-47fb-ab67-3cf0f65fe45b": {
+      "id": "5b510e3d-e581-47fb-ab67-3cf0f65fe45b",
+      "position": [
+        0.3972383193878237,
+        0.2653488778865265,
+        0.0022579017089362496
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.10217672370650688,
+        0.22675492432877423,
+        0.1021767237065072
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "1ca8da63-2c3d-4c01-8a6c-523030fd9550",
+      "components": {
+        "5f0f0842-7a24-48c0-b5d4-60b3129b6b63": {
+          "id": "5f0f0842-7a24-48c0-b5d4-60b3129b6b63",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "1ca8da63-2c3d-4c01-8a6c-523030fd9550"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar Uva",
+      "order": 7
+    },
+    "d1fc1ba8-817c-498d-8533-780b231970e4": {
+      "id": "d1fc1ba8-817c-498d-8533-780b231970e4",
+      "position": [
+        0.1907639583846361,
+        -0.18129506461422396,
+        0.009233148115920548
+      ],
+      "rotation": [
+        3.308722457568083e-24,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09982859022714305,
+        0.09982859553927018,
+        0.09982859553927018
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_olla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6c92e3dc-eae0-41e3-b691-1c68a646ad76": {
+          "id": "6c92e3dc-eae0-41e3-b691-1c68a646ad76",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "c759aa5f-5845-49f5-89ca-48a6c0a62e5c"
+            }
+          }
+        }
+      },
+      "name": "Preparacion Uva",
+      "order": 7.733066957262788,
+      "hidden": false,
+      "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
+    },
+    "c759aa5f-5845-49f5-89ca-48a6c0a62e5c": {
+      "id": "c759aa5f-5845-49f5-89ca-48a6c0a62e5c",
+      "position": [
+        -1.86123843305906,
+        2.1621798247730517,
+        0.18012703479570624
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.583932370539435,
+        2.527106572969421,
+        5.705613953997515
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Preparacion_Uva_Caimarona.jpg"
+        }
+      },
+      "parentId": "d1fc1ba8-817c-498d-8533-780b231970e4",
+      "components": {
+        "202dc573-4244-4edb-81a7-a54b03b165b0": {
+          "id": "202dc573-4244-4edb-81a7-a54b03b165b0",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "d1fc1ba8-817c-498d-8533-780b231970e4"
+            }
+          }
+        }
+      },
+      "name": "Info preparacion Uva",
+      "order": 10,
+      "disabled": true
+    },
+    "fe4ad058-1a0f-4391-81bd-b40b6d8dcd4e": {
+      "id": "fe4ad058-1a0f-4391-81bd-b40b6d8dcd4e",
+      "position": [
+        0.39486940050544694,
+        0.2646209021040127,
+        0.008347633920001596
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11366763053996488,
+        0.2511616915739414,
+        0.11124348173081876
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "c759aa5f-5845-49f5-89ca-48a6c0a62e5c",
+      "components": {
+        "a32c508b-497f-4ec8-a7ad-017cef00d4fb": {
+          "id": "a32c508b-497f-4ec8-a7ad-017cef00d4fb",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "c759aa5f-5845-49f5-89ca-48a6c0a62e5c"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar Uva",
+      "order": 11
+    },
+    "ec48eabc-808e-4458-85a6-387cda9f5eee": {
+      "id": "ec48eabc-808e-4458-85a6-387cda9f5eee",
+      "position": [
+        0.30352976018395006,
+        -0.1817949490905326,
+        0.009844403496486104
+      ],
+      "rotation": [
+        3.3087224451241454e-24,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.10075475732757629,
+        0.10075476268898709,
+        0.10075476268898709
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_responsable.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "aff59e1d-69a3-4547-9b9b-e73602d26c37": {
+          "id": "aff59e1d-69a3-4547-9b9b-e73602d26c37",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "f95d33c0-8fde-47fc-9c0e-653f1b0b59e1"
+            }
+          }
+        }
+      },
+      "name": "Consumo Resposable Uva",
+      "order": 7.835252658567418,
+      "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
+    },
+    "f95d33c0-8fde-47fc-9c0e-653f1b0b59e1": {
+      "id": "f95d33c0-8fde-47fc-9c0e-653f1b0b59e1",
+      "position": [
+        -2.9692760420338438,
+        2.151071252016324,
+        0.29147678186951786
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.532450691966397,
+        2.509817955177022,
+        5.532450691966374
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Cosecha_Uva_Caimarona.jpg"
+        }
+      },
+      "parentId": "ec48eabc-808e-4458-85a6-387cda9f5eee",
+      "components": {
+        "2afe0ff3-f18b-41e1-bf00-cf38a62c3299": {
+          "id": "2afe0ff3-f18b-41e1-bf00-cf38a62c3299",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "ec48eabc-808e-4458-85a6-387cda9f5eee"
+            },
+            "activateOnClick": true
+          }
+        }
+      },
+      "name": "Info consumo Uva",
+      "order": 14,
+      "disabled": true
+    },
+    "ca9590b9-d2fc-4d38-be0a-8c196aca2b6e": {
+      "id": "ca9590b9-d2fc-4d38-be0a-8c196aca2b6e",
+      "position": [
+        0.3867572071198182,
+        0.2622413374930055,
+        0.00677323104082328
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11336617412373666,
+        0.24989572139394936,
+        0.11336617412373697
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "f95d33c0-8fde-47fc-9c0e-653f1b0b59e1",
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "f95d33c0-8fde-47fc-9c0e-653f1b0b59e1"
+            }
+          }
+        }
+      },
+      "name": "cerrar Uva",
+      "order": 15
+    },
+    "6e65864e-0292-4dfd-955d-2bbc951b9ae1": {
+      "id": "6e65864e-0292-4dfd-955d-2bbc951b9ae1",
+      "position": [
+        -0.03132121732148052,
+        -0.18886905111687527,
+        0.0075524161432494324
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09532890482871621,
+        0.09532890990140389,
+        0.09532890990140389
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_semilla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "c54a3732-4b08-4eab-88c6-49baf4c6c0d3": {
+          "id": "c54a3732-4b08-4eab-88c6-49baf4c6c0d3",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "64dc05e1-298a-44a0-b4fe-eece0d0a9785"
+            },
+            "enabled": true
+          }
+        },
+        "1a753fbe-0f62-4e22-84ab-39018bf03c3a": {
+          "id": "1a753fbe-0f62-4e22-84ab-39018bf03c3a",
+          "name": "Panel Audio Manager",
+          "parameters": {}
+        }
+      },
+      "name": "Origen chontaduro",
+      "order": 11.675564256584114,
+      "hidden": false,
+      "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
+    },
+    "64dc05e1-298a-44a0-b4fe-eece0d0a9785": {
+      "id": "64dc05e1-298a-44a0-b4fe-eece0d0a9785",
+      "position": [
+        0.4149923911625004,
+        2.287878447649577,
+        0.10670435249120813
+      ],
+      "rotation": [
+        -3.683280884122184e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.767652121005232,
+        2.611703627866145,
+        4.807224026315834
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Origen_Chontaduro.jpg"
+        }
+      },
+      "parentId": "6e65864e-0292-4dfd-955d-2bbc951b9ae1",
+      "components": {
+        "6969a666-4855-4910-82cc-e9caf31b13b3": {
+          "id": "6969a666-4855-4910-82cc-e9caf31b13b3",
+          "name": "Audio Mute Button",
+          "parameters": {
+            "panelManager": {
+              "type": "entity",
+              "id": "6e65864e-0292-4dfd-955d-2bbc951b9ae1"
+            },
+            "panelEntity": {
+              "type": "entity",
+              "id": "64dc05e1-298a-44a0-b4fe-eece0d0a9785"
+            },
+            "soundOnIcon": {
+              "type": "entity",
+              "id": "a116cb78-c276-4208-905c-3d4ab2e3a358"
+            },
+            "mutedIcon": {
+              "type": "entity",
+              "id": "3f186268-a92d-4cab-a07e-bb4e3472e0fd"
+            }
+          }
+        }
+      },
+      "name": "Informacion origen chontaduro",
+      "order": 1,
+      "disabled": true
+    },
+    "8650684a-fc24-4553-a05f-5234fbc229e6": {
+      "id": "8650684a-fc24-4553-a05f-5234fbc229e6",
+      "position": [
+        0.4124501162908214,
+        0.2775052849951303,
+        0.009884244252427954
+      ],
+      "rotation": [
+        5.199545397422239e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.1135431947274973,
+        0.24228141373115356,
+        0.1374810874277888
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "64dc05e1-298a-44a0-b4fe-eece0d0a9785",
+      "components": {
+        "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2": {
+          "id": "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "64dc05e1-298a-44a0-b4fe-eece0d0a9785"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar info chontaduro",
+      "order": 2,
+      "hidden": false
+    },
+    "14b4356a-6912-4f07-9703-23b6ab7fa946": {
+      "id": "14b4356a-6912-4f07-9703-23b6ab7fa946",
+      "position": [
+        0.08021683700211613,
+        -0.18767712763917835,
+        0.007253098838499006
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09541751518841206,
+        0.09541752026581497,
+        0.09541752026581497
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/chontaduro.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6375e192-7be6-49fc-ad1f-ed590d4aa4ff": {
+          "id": "6375e192-7be6-49fc-ad1f-ed590d4aa4ff",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "a38c29e2-a046-4111-a1a3-104dc6a8b867"
+            }
+          }
+        }
+      },
+      "name": "Recoleccion chontaduro",
+      "order": 11.808673657847988,
+      "hidden": false,
+      "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
+    },
+    "a38c29e2-a046-4111-a1a3-104dc6a8b867": {
+      "id": "a38c29e2-a046-4111-a1a3-104dc6a8b867",
+      "position": [
+        -0.75371173147572,
+        2.2758238191145903,
+        0.2533495447829113
+      ],
+      "rotation": [
+        -7.64145136056284e-9,
+        0,
+        0,
+        0.9999999999999998
+      ],
+      "scale": [
+        5.755996535596804,
+        2.5936762758922605,
+        5.75599653559681
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Cosecha_Chontaduro.jpg"
+        }
+      },
+      "parentId": "14b4356a-6912-4f07-9703-23b6ab7fa946",
+      "components": {
+        "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c": {
+          "id": "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "14b4356a-6912-4f07-9703-23b6ab7fa946"
+            }
+          }
+        }
+      },
+      "name": "Info recoleccion chontaduro",
+      "order": 4,
+      "hidden": false,
+      "disabled": true
+    },
+    "004a4b70-597b-4409-acee-fb07847dd07e": {
+      "id": "004a4b70-597b-4409-acee-fb07847dd07e",
+      "position": [
+        0.41281760456358363,
+        0.2653488778865265,
+        0.002257901708936222
+      ],
+      "rotation": [
+        1.020075176179041e-8,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.10217672370650688,
+        0.22675492432877417,
+        0.10217672370650717
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "a38c29e2-a046-4111-a1a3-104dc6a8b867",
+      "components": {
+        "5f0f0842-7a24-48c0-b5d4-60b3129b6b63": {
+          "id": "5f0f0842-7a24-48c0-b5d4-60b3129b6b63",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "a38c29e2-a046-4111-a1a3-104dc6a8b867"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar recoleccion chontaduro",
+      "order": 5
+    },
+    "bac2af49-785d-444b-b557-ef9ecf683126": {
+      "id": "bac2af49-785d-444b-b557-ef9ecf683126",
+      "position": [
+        0.1911954359591892,
+        -0.18583084461151197,
+        0.007863626849504937
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09780138595728548,
+        0.0978013911615401,
+        0.0978013911615401
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_olla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6c92e3dc-eae0-41e3-b691-1c68a646ad76": {
+          "id": "6c92e3dc-eae0-41e3-b691-1c68a646ad76",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "b7b99d13-b27d-4a0d-8f8e-0d6bcc5ec74d"
+            }
+          }
+        }
+      },
+      "name": "Preparacion chontaduro",
+      "order": 11.941783059111861,
+      "hidden": false,
+      "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
+    },
+    "b7b99d13-b27d-4a0d-8f8e-0d6bcc5ec74d": {
+      "id": "b7b99d13-b27d-4a0d-8f8e-0d6bcc5ec74d",
+      "position": [
+        -1.86123843305906,
+        2.1621798247730517,
+        0.18012703479570624
+      ],
+      "rotation": [
+        -9.321243221727136e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.583932370539435,
+        2.527106572969421,
+        5.705613953997515
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Preparacion_Chontaduro.jpg"
+        }
+      },
+      "parentId": "bac2af49-785d-444b-b557-ef9ecf683126",
+      "components": {
+        "202dc573-4244-4edb-81a7-a54b03b165b0": {
+          "id": "202dc573-4244-4edb-81a7-a54b03b165b0",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "bac2af49-785d-444b-b557-ef9ecf683126"
+            }
+          }
+        }
+      },
+      "name": "Info preparacion chontaduro",
+      "order": 7,
+      "hidden": false,
+      "disabled": true
+    },
+    "562c7f75-526d-4a07-ae27-fd33238024de": {
+      "id": "562c7f75-526d-4a07-ae27-fd33238024de",
+      "position": [
+        0.41380359379092835,
+        0.2649419606082777,
+        0.008305379333913648
+      ],
+      "rotation": [
+        1.258685483350576e-8,
+        0,
+        0,
+        0.9999999999999998
+      ],
+      "scale": [
+        0.10366653462924154,
+        0.22906312090260728,
+        0.10145567560740743
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "b7b99d13-b27d-4a0d-8f8e-0d6bcc5ec74d",
+      "components": {
+        "a32c508b-497f-4ec8-a7ad-017cef00d4fb": {
+          "id": "a32c508b-497f-4ec8-a7ad-017cef00d4fb",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "b7b99d13-b27d-4a0d-8f8e-0d6bcc5ec74d"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar preparacion chontaduro",
+      "order": 8
+    },
+    "49232baf-cbaa-4e71-9481-47856a206919": {
+      "id": "49232baf-cbaa-4e71-9481-47856a206919",
+      "position": [
+        0.3016713194657439,
+        -0.1852844467966642,
+        0.008411258859106305
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09870874552075633,
+        0.09870875077329387,
+        0.09870875077329387
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_responsable.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "aff59e1d-69a3-4547-9b9b-e73602d26c37": {
+          "id": "aff59e1d-69a3-4547-9b9b-e73602d26c37",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "7e86d263-745f-44d7-b5cc-56a7e70fd295"
+            }
+          }
+        }
+      },
+      "name": "Consumo Resposable chontaduro",
+      "order": 12.074892460375736,
+      "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
+    },
+    "7e86d263-745f-44d7-b5cc-56a7e70fd295": {
+      "id": "7e86d263-745f-44d7-b5cc-56a7e70fd295",
+      "position": [
+        -2.9692760420338438,
+        2.151071252016324,
+        0.29147678186951786
+      ],
+      "rotation": [
+        -6.528681373296766e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.532450691966397,
+        2.509817955177022,
+        5.532450691966374
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consumo_responsable_Chontaduro.jpg"
+        }
+      },
+      "parentId": "49232baf-cbaa-4e71-9481-47856a206919",
+      "components": {
+        "2afe0ff3-f18b-41e1-bf00-cf38a62c3299": {
+          "id": "2afe0ff3-f18b-41e1-bf00-cf38a62c3299",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "49232baf-cbaa-4e71-9481-47856a206919"
+            },
+            "activateOnClick": true
+          }
+        }
+      },
+      "name": "Info consumo chontaduro",
+      "order": 10,
+      "disabled": true
+    },
+    "4669daf4-8299-4404-ba38-d4697d850c2b": {
+      "id": "4669daf4-8299-4404-ba38-d4697d850c2b",
+      "position": [
+        0.39870320390260394,
+        0.26224133749300726,
+        0.00677323104082328
+      ],
+      "rotation": [
+        8.676545309030646e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11336617412373666,
+        0.2498957213939494,
+        0.11336617412373698
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "7e86d263-745f-44d7-b5cc-56a7e70fd295",
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "7e86d263-745f-44d7-b5cc-56a7e70fd295"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. r. chontaduro",
+      "order": 11
+    },
+    "1da2ab3f-04d0-4c1d-a69e-2dcf9768e962": {
+      "id": "1da2ab3f-04d0-4c1d-a69e-2dcf9768e962",
+      "position": [
+        0.4200925945237608,
+        -0.1864180532046936,
+        0.007239640203421702
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09596981221144664,
+        0.09596981731823839,
+        0.09596981731823839
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_maceta.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {},
+      "name": "consiguelo en casa chontaduro",
+      "order": 12.208001861639609,
+      "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
+    },
+    "c956fb09-9ea7-4e99-b73b-4c19db1b67b8": {
+      "id": "c956fb09-9ea7-4e99-b73b-4c19db1b67b8",
+      "position": [
+        -0.03356454519007235,
+        -0.1903938658702642,
+        0.004218386107706432
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09532890482871621,
+        0.09532890990140389,
+        0.09532890990140389
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_semilla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "c54a3732-4b08-4eab-88c6-49baf4c6c0d3": {
+          "id": "c54a3732-4b08-4eab-88c6-49baf4c6c0d3",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "ec919fe9-883a-4975-a5f9-ebed75f4205a"
+            },
+            "enabled": true
+          }
+        },
+        "1a753fbe-0f62-4e22-84ab-39018bf03c3a": {
+          "id": "1a753fbe-0f62-4e22-84ab-39018bf03c3a",
+          "name": "Panel Audio Manager",
+          "parameters": {}
+        }
+      },
+      "name": "Origen aji negro",
+      "order": 12.787904287172946,
+      "hidden": false,
+      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
+    },
+    "215bee74-56cd-4df0-a2a7-a6a0eff1c911": {
+      "id": "215bee74-56cd-4df0-a2a7-a6a0eff1c911",
+      "position": [
+        0.0779735091335243,
+        -0.1900945485655139,
+        0.005410309585403353
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09541751518841206,
+        0.09541752026581495,
+        0.09541752026581495
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_aji.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6375e192-7be6-49fc-ad1f-ed590d4aa4ff": {
+          "id": "6375e192-7be6-49fc-ad1f-ed590d4aa4ff",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "6064bc6c-48d8-484a-b69a-efc18660585f"
+            }
+          }
+        }
+      },
+      "name": "Cosecha aji negro",
+      "order": 12.956793699302438,
+      "hidden": false,
+      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2",
+      "disabled": true
+    },
+    "f1ceea60-6a9e-4f9e-aaf1-2e8f143cee51": {
+      "id": "f1ceea60-6a9e-4f9e-aaf1-2e8f143cee51",
+      "position": [
+        0.18895210809059737,
+        -0.1907050765765197,
+        0.007256592613069726
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09780138595728548,
+        0.0978013911615401,
+        0.0978013911615401
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_olla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6c92e3dc-eae0-41e3-b691-1c68a646ad76": {
+          "id": "6c92e3dc-eae0-41e3-b691-1c68a646ad76",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "f4fdfd09-94ac-43a4-b052-25688a147f4c"
+            }
+          }
+        }
+      },
+      "name": "Preparacion aji negro",
+      "order": 13.125683111431929,
+      "hidden": false,
+      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
+    },
+    "450cc8f7-8526-4265-87a0-0b7ebc538b68": {
+      "id": "450cc8f7-8526-4265-87a0-0b7ebc538b68",
+      "position": [
+        0.29942799159715205,
+        -0.1912527085861211,
+        0.007802990427917503
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09870874552075633,
+        0.09870875077329387,
+        0.09870875077329387
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_responsable.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "aff59e1d-69a3-4547-9b9b-e73602d26c37": {
+          "id": "aff59e1d-69a3-4547-9b9b-e73602d26c37",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "800706fc-7afd-4f0f-bc91-323afefda4b6"
+            }
+          }
+        }
+      },
+      "name": "Consumo Resposable aji negro",
+      "order": 13.29457252356142,
+      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
+    },
+    "c25bda5a-2b92-4a60-aec9-bfd956569ad2": {
+      "id": "c25bda5a-2b92-4a60-aec9-bfd956569ad2",
+      "position": [
+        0.41784926665516897,
+        -0.1900810899304366,
+        0.0066693840198881055
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09596981221144664,
+        0.09596981731823839,
+        0.09596981731823839
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_maceta.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {},
+      "name": "consiguelo en casa aji negro",
+      "order": 13.46346193569091,
+      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
+    },
+    "ec919fe9-883a-4975-a5f9-ebed75f4205a": {
+      "id": "ec919fe9-883a-4975-a5f9-ebed75f4205a",
+      "position": [
+        0.4149923911625004,
+        2.287878447649577,
+        0.10670435249120813
+      ],
+      "rotation": [
+        -3.683280884122184e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.767652121005232,
+        2.611703627866145,
+        4.807224026315834
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Origen_Aji_negro.jpg"
+        }
+      },
+      "parentId": "c956fb09-9ea7-4e99-b73b-4c19db1b67b8",
+      "components": {
+        "6969a666-4855-4910-82cc-e9caf31b13b3": {
+          "id": "6969a666-4855-4910-82cc-e9caf31b13b3",
+          "name": "Audio Mute Button",
+          "parameters": {
+            "panelManager": {
+              "type": "entity",
+              "id": "c956fb09-9ea7-4e99-b73b-4c19db1b67b8"
+            },
+            "panelEntity": {
+              "type": "entity",
+              "id": "ec919fe9-883a-4975-a5f9-ebed75f4205a"
+            },
+            "soundOnIcon": {
+              "type": "entity",
+              "id": "a116cb78-c276-4208-905c-3d4ab2e3a358"
+            },
+            "mutedIcon": {
+              "type": "entity",
+              "id": "3f186268-a92d-4cab-a07e-bb4e3472e0fd"
+            }
+          }
+        }
+      },
+      "name": "Informacion origen aji negro",
+      "order": 5,
+      "disabled": true
+    },
+    "c029decf-e6ce-4436-bbbc-390359b8a739": {
+      "id": "c029decf-e6ce-4436-bbbc-390359b8a739",
+      "position": [
+        0.4124501162908214,
+        0.2775052849951303,
+        0.009884244252427954
+      ],
+      "rotation": [
+        5.199545397422239e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.1135431947274973,
+        0.24228141373115356,
+        0.1374810874277888
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "ec919fe9-883a-4975-a5f9-ebed75f4205a",
+      "components": {
+        "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2": {
+          "id": "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "ec919fe9-883a-4975-a5f9-ebed75f4205a"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar info aji negro",
+      "order": 6,
+      "hidden": false
+    },
+    "6064bc6c-48d8-484a-b69a-efc18660585f": {
+      "id": "6064bc6c-48d8-484a-b69a-efc18660585f",
+      "position": [
+        -0.75371173147572,
+        2.2758238191145903,
+        0.2533495447829113
+      ],
+      "rotation": [
+        -7.64145136056284e-9,
+        0,
+        0,
+        0.9999999999999998
+      ],
+      "scale": [
+        5.755996535596804,
+        2.5936762758922605,
+        5.75599653559681
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Cosecha_Aji_negro.jpg"
+        }
+      },
+      "parentId": "215bee74-56cd-4df0-a2a7-a6a0eff1c911",
+      "components": {
+        "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c": {
+          "id": "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "215bee74-56cd-4df0-a2a7-a6a0eff1c911"
+            }
+          }
+        }
+      },
+      "name": "Info cosecha aji negro",
+      "order": 7,
+      "hidden": false
+    },
+    "13c96dc3-a47e-49fc-82b4-bb261b4e6eee": {
+      "id": "13c96dc3-a47e-49fc-82b4-bb261b4e6eee",
+      "position": [
+        0.41281760456358363,
+        0.2653488778865265,
+        0.002257901708936222
+      ],
+      "rotation": [
+        1.020075176179041e-8,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.10217672370650688,
+        0.22675492432877417,
+        0.10217672370650717
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "6064bc6c-48d8-484a-b69a-efc18660585f",
+      "components": {
+        "5f0f0842-7a24-48c0-b5d4-60b3129b6b63": {
+          "id": "5f0f0842-7a24-48c0-b5d4-60b3129b6b63",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "6064bc6c-48d8-484a-b69a-efc18660585f"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar cosecha aji negro",
+      "order": 8
+    },
+    "f4fdfd09-94ac-43a4-b052-25688a147f4c": {
+      "id": "f4fdfd09-94ac-43a4-b052-25688a147f4c",
+      "position": [
+        -1.86123843305906,
+        2.1621798247730517,
+        0.18012703479570624
+      ],
+      "rotation": [
+        -9.321243221727136e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.583932370539435,
+        2.527106572969421,
+        5.705613953997515
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Preparacion_Aji_negro.jpg"
+        }
+      },
+      "parentId": "f1ceea60-6a9e-4f9e-aaf1-2e8f143cee51",
+      "components": {
+        "202dc573-4244-4edb-81a7-a54b03b165b0": {
+          "id": "202dc573-4244-4edb-81a7-a54b03b165b0",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "f1ceea60-6a9e-4f9e-aaf1-2e8f143cee51"
+            }
+          }
+        }
+      },
+      "name": "Info preparacion aji negro",
+      "order": 9,
+      "hidden": false,
+      "disabled": true
+    },
+    "72889f5b-faf0-4b78-a0ba-d18cea1d3493": {
+      "id": "72889f5b-faf0-4b78-a0ba-d18cea1d3493",
+      "position": [
+        0.41380359379092835,
+        0.2649419606082777,
+        0.008305379333913648
+      ],
+      "rotation": [
+        1.258685483350576e-8,
+        0,
+        0,
+        0.9999999999999998
+      ],
+      "scale": [
+        0.10366653462924154,
+        0.22906312090260728,
+        0.10145567560740743
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "f4fdfd09-94ac-43a4-b052-25688a147f4c",
+      "components": {
+        "a32c508b-497f-4ec8-a7ad-017cef00d4fb": {
+          "id": "a32c508b-497f-4ec8-a7ad-017cef00d4fb",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "f4fdfd09-94ac-43a4-b052-25688a147f4c"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar preparacion aji negro",
+      "order": 10
+    },
+    "800706fc-7afd-4f0f-bc91-323afefda4b6": {
+      "id": "800706fc-7afd-4f0f-bc91-323afefda4b6",
+      "position": [
+        -2.9692760420338438,
+        2.151071252016324,
+        0.29147678186951786
+      ],
+      "rotation": [
+        -6.528681373296766e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.532450691966397,
+        2.509817955177022,
+        5.532450691966374
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consumo_responsable_Aji_negro.jpg"
+        }
+      },
+      "parentId": "450cc8f7-8526-4265-87a0-0b7ebc538b68",
+      "components": {
+        "2afe0ff3-f18b-41e1-bf00-cf38a62c3299": {
+          "id": "2afe0ff3-f18b-41e1-bf00-cf38a62c3299",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "450cc8f7-8526-4265-87a0-0b7ebc538b68"
+            },
+            "activateOnClick": true
+          }
+        }
+      },
+      "name": "Info consumo aji negro",
+      "order": 11,
+      "disabled": true
+    },
+    "93ff2e68-d5ab-41c3-9660-1b86cfa46cc8": {
+      "id": "93ff2e68-d5ab-41c3-9660-1b86cfa46cc8",
+      "position": [
+        0.39870320390260394,
+        0.26224133749300726,
+        0.00677323104082328
+      ],
+      "rotation": [
+        8.676545309030646e-9,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11336617412373666,
+        0.2498957213939494,
+        0.11336617412373698
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "800706fc-7afd-4f0f-bc91-323afefda4b6",
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "800706fc-7afd-4f0f-bc91-323afefda4b6"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. r. aji negro",
+      "order": 12
+    },
+    "d5cc66f8-e81f-40e1-af54-6649cd2f8d82": {
+      "id": "d5cc66f8-e81f-40e1-af54-6649cd2f8d82",
+      "position": [
+        -0.03198142013581329,
+        -0.18863477659510153,
+        0.009622631748232316
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09532890482871621,
+        0.09532890990140389,
+        0.09532890990140389
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_semilla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "c54a3732-4b08-4eab-88c6-49baf4c6c0d3": {
+          "id": "c54a3732-4b08-4eab-88c6-49baf4c6c0d3",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "4d55a330-f863-42ef-a9a9-98971b48a4c9"
+            },
+            "enabled": true
+          }
+        },
+        "1a753fbe-0f62-4e22-84ab-39018bf03c3a": {
+          "id": "1a753fbe-0f62-4e22-84ab-39018bf03c3a",
+          "name": "Panel Audio Manager",
+          "parameters": {}
+        }
+      },
+      "name": "Origen cananguncha",
+      "order": 10.255395067787372,
+      "hidden": false,
+      "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
+    },
+    "06cae88d-54cc-4808-8d73-529b72ae9013": {
+      "id": "06cae88d-54cc-4808-8d73-529b72ae9013",
+      "position": [
+        0.07955663418778336,
+        -0.18982670007279845,
+        0.009921949052982618
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09541751518841206,
+        0.09541752026581495,
+        0.09541752026581495
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_canangucha.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6375e192-7be6-49fc-ad1f-ed590d4aa4ff": {
+          "id": "6375e192-7be6-49fc-ad1f-ed590d4aa4ff",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "022a99c5-b0d8-4966-a46d-00e77b6c9734"
+            }
+          }
+        }
+      },
+      "name": "Cosecha cananguncha",
+      "order": 10.258819620300455,
+      "hidden": false,
+      "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
+    },
+    "f8aafaad-5e73-44d9-b1d5-c17184423867": {
+      "id": "f8aafaad-5e73-44d9-b1d5-c17184423867",
+      "position": [
+        0.19053523314485643,
+        -0.19167298310046466,
+        0.009311421041976811
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09780138595728548,
+        0.0978013911615401,
+        0.0978013911615401
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_olla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6c92e3dc-eae0-41e3-b691-1c68a646ad76": {
+          "id": "6c92e3dc-eae0-41e3-b691-1c68a646ad76",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "f11f56eb-40d3-4a51-9a93-d16448302c45"
+            }
+          }
+        }
+      },
+      "name": "Preparacion cananguncha",
+      "order": 10.262244172813539,
+      "hidden": false,
+      "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
+    },
+    "b8fbc8a7-ba49-4c17-9313-3746d873254a": {
+      "id": "b8fbc8a7-ba49-4c17-9313-3746d873254a",
+      "position": [
+        0.3010111166514111,
+        -0.19221938091531277,
+        0.008763789032375416
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09870874552075633,
+        0.09870875077329387,
+        0.09870875077329387
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_responsable.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "aff59e1d-69a3-4547-9b9b-e73602d26c37": {
+          "id": "aff59e1d-69a3-4547-9b9b-e73602d26c37",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "f5c10900-5b10-481a-b870-8c80698ca103"
+            }
+          }
+        }
+      },
+      "name": "Consumo Resposable cananguncha",
+      "order": 10.26566872532662,
+      "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
+    },
+    "7e57dfb8-dd58-4098-886a-5150d42b1676": {
+      "id": "7e57dfb8-dd58-4098-886a-5150d42b1676",
+      "position": [
+        0.41943239170942803,
+        -0.19108577450728337,
+        0.009935407688059908
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09596981221144664,
+        0.09596981731823839,
+        0.09596981731823839
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_maceta.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {},
+      "name": "consiguelo en casa cananguncha",
+      "order": 10.269093277839703,
+      "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
+    },
+    "4d55a330-f863-42ef-a9a9-98971b48a4c9": {
+      "id": "4d55a330-f863-42ef-a9a9-98971b48a4c9",
+      "position": [
+        0.4149923911625004,
+        2.287878447649577,
+        0.10670435249120813
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.767652121005232,
+        2.611703627866145,
+        4.807224026315834
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Origen_Cananguncha.jpg"
+        }
+      },
+      "parentId": "d5cc66f8-e81f-40e1-af54-6649cd2f8d82",
+      "components": {
+        "6969a666-4855-4910-82cc-e9caf31b13b3": {
+          "id": "6969a666-4855-4910-82cc-e9caf31b13b3",
+          "name": "Audio Mute Button",
+          "parameters": {
+            "panelManager": {
+              "type": "entity",
+              "id": "d5cc66f8-e81f-40e1-af54-6649cd2f8d82"
+            },
+            "panelEntity": {
+              "type": "entity",
+              "id": "4d55a330-f863-42ef-a9a9-98971b48a4c9"
+            },
+            "soundOnIcon": {
+              "type": "entity",
+              "id": "a116cb78-c276-4208-905c-3d4ab2e3a358"
+            },
+            "mutedIcon": {
+              "type": "entity",
+              "id": "3f186268-a92d-4cab-a07e-bb4e3472e0fd"
+            }
+          }
+        }
+      },
+      "name": "Informacion origen cananguncha",
+      "order": 5,
+      "disabled": true
+    },
+    "bbf291e0-fd17-4577-adb6-c490b57b993c": {
+      "id": "bbf291e0-fd17-4577-adb6-c490b57b993c",
+      "position": [
+        0.4124501162908214,
+        0.2775052849951303,
+        0.009884244252427954
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.1135431947274973,
+        0.24228141373115356,
+        0.1374810874277888
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "4d55a330-f863-42ef-a9a9-98971b48a4c9",
+      "components": {
+        "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2": {
+          "id": "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "4d55a330-f863-42ef-a9a9-98971b48a4c9"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar info cananguncha",
+      "order": 6,
+      "hidden": false
+    },
+    "022a99c5-b0d8-4966-a46d-00e77b6c9734": {
+      "id": "022a99c5-b0d8-4966-a46d-00e77b6c9734",
+      "position": [
+        -0.75371173147572,
+        2.2758238191145903,
+        0.2533495447829113
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.755996535596804,
+        2.5936762758922605,
+        5.75599653559681
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Cosecha_Cananguncha.jpg"
+        }
+      },
+      "parentId": "06cae88d-54cc-4808-8d73-529b72ae9013",
+      "components": {
+        "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c": {
+          "id": "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "06cae88d-54cc-4808-8d73-529b72ae9013"
+            }
+          }
+        }
+      },
+      "name": "Info cosecha cananguncha",
+      "order": 7,
+      "hidden": false,
+      "disabled": true
+    },
+    "bdf9351a-8957-4fcc-9220-484f6d1994a2": {
+      "id": "bdf9351a-8957-4fcc-9220-484f6d1994a2",
+      "position": [
+        0.41281760456358363,
+        0.2653488778865265,
+        0.002257901708936222
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.10217672370650688,
+        0.22675492432877417,
+        0.10217672370650717
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "022a99c5-b0d8-4966-a46d-00e77b6c9734",
+      "components": {
+        "5f0f0842-7a24-48c0-b5d4-60b3129b6b63": {
+          "id": "5f0f0842-7a24-48c0-b5d4-60b3129b6b63",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "022a99c5-b0d8-4966-a46d-00e77b6c9734"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar cosecha cananguncha",
+      "order": 8
+    },
+    "f11f56eb-40d3-4a51-9a93-d16448302c45": {
+      "id": "f11f56eb-40d3-4a51-9a93-d16448302c45",
+      "position": [
+        -1.86123843305906,
+        2.1621798247730517,
+        0.18012703479570624
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.583932370539435,
+        2.527106572969421,
+        5.705613953997515
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Preparacion_Cananguncha.jpg"
+        }
+      },
+      "parentId": "f8aafaad-5e73-44d9-b1d5-c17184423867",
+      "components": {
+        "202dc573-4244-4edb-81a7-a54b03b165b0": {
+          "id": "202dc573-4244-4edb-81a7-a54b03b165b0",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "f8aafaad-5e73-44d9-b1d5-c17184423867"
+            }
+          }
+        }
+      },
+      "name": "Info preparacion cananguncha",
+      "order": 9,
+      "hidden": false,
+      "disabled": true
+    },
+    "78d1af0a-d6ff-4600-a98d-8f80dafb5dd8": {
+      "id": "78d1af0a-d6ff-4600-a98d-8f80dafb5dd8",
+      "position": [
+        0.41380359379092835,
+        0.2649419606082777,
+        0.008305379333913648
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.10366653462924154,
+        0.22906312090260728,
+        0.10145567560740743
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "f11f56eb-40d3-4a51-9a93-d16448302c45",
+      "components": {
+        "a32c508b-497f-4ec8-a7ad-017cef00d4fb": {
+          "id": "a32c508b-497f-4ec8-a7ad-017cef00d4fb",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "f11f56eb-40d3-4a51-9a93-d16448302c45"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar preparacion cananguncha",
+      "order": 10
+    },
+    "f5c10900-5b10-481a-b870-8c80698ca103": {
+      "id": "f5c10900-5b10-481a-b870-8c80698ca103",
+      "position": [
+        -2.9692760420338438,
+        2.151071252016324,
+        0.29147678186951786
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.532450691966397,
+        2.509817955177022,
+        5.532450691966374
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Cosecha_Cananguncha.jpg"
+        }
+      },
+      "parentId": "b8fbc8a7-ba49-4c17-9313-3746d873254a",
+      "components": {
+        "2afe0ff3-f18b-41e1-bf00-cf38a62c3299": {
+          "id": "2afe0ff3-f18b-41e1-bf00-cf38a62c3299",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "b8fbc8a7-ba49-4c17-9313-3746d873254a"
+            },
+            "activateOnClick": true
+          }
+        }
+      },
+      "name": "Info consumo cananguncha",
+      "order": 11,
+      "disabled": true
+    },
+    "1966c004-f4be-46fc-84a4-db399e220f39": {
+      "id": "1966c004-f4be-46fc-84a4-db399e220f39",
+      "position": [
+        0.39870320390260394,
+        0.26224133749300726,
+        0.00677323104082328
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11336617412373666,
+        0.2498957213939494,
+        0.11336617412373698
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "f5c10900-5b10-481a-b870-8c80698ca103",
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "f5c10900-5b10-481a-b870-8c80698ca103"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. r. cananguncha",
+      "order": 12
+    },
+    "95f245e9-46fd-4a19-96b3-f9f4b8cdc2fe": {
+      "id": "95f245e9-46fd-4a19-96b3-f9f4b8cdc2fe",
+      "position": [
+        -0.027660686419003433,
+        -0.1842719955514469,
+        0.013127527444766737
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09532890482871621,
+        0.09532890990140389,
+        0.09532890990140389
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_semilla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "c54a3732-4b08-4eab-88c6-49baf4c6c0d3": {
+          "id": "c54a3732-4b08-4eab-88c6-49baf4c6c0d3",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "aa47eb2d-21c7-4e4d-87c2-e37f617330a2"
+            },
+            "enabled": true
+          }
+        },
+        "1a753fbe-0f62-4e22-84ab-39018bf03c3a": {
+          "id": "1a753fbe-0f62-4e22-84ab-39018bf03c3a",
+          "name": "Panel Audio Manager",
+          "parameters": {}
+        }
+      },
+      "name": "Origen araza",
+      "order": 9.802878739855261,
+      "hidden": false,
+      "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
+    },
+    "aa47eb2d-21c7-4e4d-87c2-e37f617330a2": {
+      "id": "aa47eb2d-21c7-4e4d-87c2-e37f617330a2",
+      "position": [
+        0.4149923911625004,
+        2.287878447649577,
+        0.10670435249120813
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        5.767652121005232,
+        2.611703627866145,
+        4.807224026315834
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Origen_Araza.jpg"
+        }
+      },
+      "parentId": "95f245e9-46fd-4a19-96b3-f9f4b8cdc2fe",
+      "components": {
+        "6969a666-4855-4910-82cc-e9caf31b13b3": {
+          "id": "6969a666-4855-4910-82cc-e9caf31b13b3",
+          "name": "Audio Mute Button",
+          "parameters": {
+            "panelManager": {
+              "type": "entity",
+              "id": "95f245e9-46fd-4a19-96b3-f9f4b8cdc2fe"
+            },
+            "panelEntity": {
+              "type": "entity",
+              "id": "aa47eb2d-21c7-4e4d-87c2-e37f617330a2"
+            },
+            "soundOnIcon": {
+              "type": "entity",
+              "id": "a116cb78-c276-4208-905c-3d4ab2e3a358"
+            },
+            "mutedIcon": {
+              "type": "entity",
+              "id": "3f186268-a92d-4cab-a07e-bb4e3472e0fd"
+            }
+          }
+        }
+      },
+      "name": "Informacion origen araza",
+      "order": 1,
+      "disabled": true
+    },
+    "23146e0a-ac12-4e0e-80ff-e8862c1ae204": {
+      "id": "23146e0a-ac12-4e0e-80ff-e8862c1ae204",
+      "position": [
+        0.4124501162908214,
+        0.2775052849951303,
+        0.009884244252427954
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.1135431947274973,
+        0.24228141373115356,
+        0.1374810874277888
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "aa47eb2d-21c7-4e4d-87c2-e37f617330a2",
+      "components": {
+        "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2": {
+          "id": "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "aa47eb2d-21c7-4e4d-87c2-e37f617330a2"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar info araza",
+      "order": 2,
+      "hidden": false
+    },
+    "1ba2f5c7-e34d-47a5-a6ca-ac684eb529c7": {
+      "id": "1ba2f5c7-e34d-47a5-a6ca-ac684eb529c7",
+      "position": [
+        0.08387736790459321,
+        -0.18457131285619743,
+        0.011935603967069816
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09541751518841206,
+        0.09541752026581495,
+        0.09541752026581495
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_azara.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6375e192-7be6-49fc-ad1f-ed590d4aa4ff": {
+          "id": "6375e192-7be6-49fc-ad1f-ed590d4aa4ff",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "c209c147-526d-43ef-a853-57a63123588c"
+            }
+          }
+        }
+      },
+      "name": "Cosecha araza",
+      "order": 9.8093356171521,
+      "hidden": false,
+      "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
+    },
+    "c209c147-526d-43ef-a853-57a63123588c": {
+      "id": "c209c147-526d-43ef-a853-57a63123588c",
+      "position": [
+        -0.75371173147572,
+        2.2758238191145903,
+        0.2533495447829113
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        5.755996535596804,
+        2.5936762758922605,
+        5.75599653559681
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Cosecha_Araza.jpg"
+        }
+      },
+      "parentId": "1ba2f5c7-e34d-47a5-a6ca-ac684eb529c7",
+      "components": {
+        "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c": {
+          "id": "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "1ba2f5c7-e34d-47a5-a6ca-ac684eb529c7"
+            }
+          }
+        }
+      },
+      "name": "Info cosecha araza",
+      "order": 4,
+      "hidden": false,
+      "disabled": true
+    },
+    "9916d955-78aa-4753-bbb7-f5f0726865d9": {
+      "id": "9916d955-78aa-4753-bbb7-f5f0726865d9",
+      "position": [
+        0.41281760456358363,
+        0.2653488778865265,
+        0.002257901708936222
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.10217672370650688,
+        0.22675492432877417,
+        0.10217672370650717
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "c209c147-526d-43ef-a853-57a63123588c",
+      "components": {
+        "5f0f0842-7a24-48c0-b5d4-60b3129b6b63": {
+          "id": "5f0f0842-7a24-48c0-b5d4-60b3129b6b63",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "c209c147-526d-43ef-a853-57a63123588c"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar cosecha araza",
+      "order": 5
+    },
+    "daed9199-1219-4a61-b76f-f0ad9f6664c5": {
+      "id": "daed9199-1219-4a61-b76f-f0ad9f6664c5",
+      "position": [
+        0.19485596686166629,
+        -0.1839607848451914,
+        0.01008932093940361
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09780138595728548,
+        0.0978013911615401,
+        0.0978013911615401
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_olla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6c92e3dc-eae0-41e3-b691-1c68a646ad76": {
+          "id": "6c92e3dc-eae0-41e3-b691-1c68a646ad76",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "fcb5b357-bbe9-44c3-b755-2dd4cd49df0b"
+            }
+          }
+        }
+      },
+      "name": "Preparacion araza",
+      "order": 9.815792494448937,
+      "hidden": false,
+      "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
+    },
+    "fcb5b357-bbe9-44c3-b755-2dd4cd49df0b": {
+      "id": "fcb5b357-bbe9-44c3-b755-2dd4cd49df0b",
+      "position": [
+        -1.86123843305906,
+        2.1621798247730517,
+        0.18012703479570624
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        5.583932370539435,
+        2.527106572969421,
+        5.705613953997515
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Preparacion_Araza.jpg"
+        }
+      },
+      "parentId": "daed9199-1219-4a61-b76f-f0ad9f6664c5",
+      "components": {
+        "202dc573-4244-4edb-81a7-a54b03b165b0": {
+          "id": "202dc573-4244-4edb-81a7-a54b03b165b0",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "daed9199-1219-4a61-b76f-f0ad9f6664c5"
+            }
+          }
+        }
+      },
+      "name": "Info preparacion araza",
+      "order": 7,
+      "hidden": false,
+      "disabled": true
+    },
+    "9d5cf387-5dd9-47b0-bef4-ef10c9d3eab8": {
+      "id": "9d5cf387-5dd9-47b0-bef4-ef10c9d3eab8",
+      "position": [
+        0.41380359379092835,
+        0.2649419606082777,
+        0.008305379333913648
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.10366653462924154,
+        0.22906312090260728,
+        0.10145567560740743
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "fcb5b357-bbe9-44c3-b755-2dd4cd49df0b",
+      "components": {
+        "a32c508b-497f-4ec8-a7ad-017cef00d4fb": {
+          "id": "a32c508b-497f-4ec8-a7ad-017cef00d4fb",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "fcb5b357-bbe9-44c3-b755-2dd4cd49df0b"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar preparacion araza",
+      "order": 8
+    },
+    "96e4965b-c7c6-4995-80ea-9406b14063c8": {
+      "id": "96e4965b-c7c6-4995-80ea-9406b14063c8",
+      "position": [
+        0.30533185036822097,
+        -0.18341315283559023,
+        0.0095429231245555
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09870874552075633,
+        0.09870875077329387,
+        0.09870875077329387
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_responsable.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "aff59e1d-69a3-4547-9b9b-e73602d26c37": {
+          "id": "aff59e1d-69a3-4547-9b9b-e73602d26c37",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "619e9287-595c-457d-8e6a-130e4f71ff60"
+            }
+          }
+        }
+      },
+      "name": "Consumo Resposable araza",
+      "order": 9.822249371745777,
+      "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
+    },
+    "619e9287-595c-457d-8e6a-130e4f71ff60": {
+      "id": "619e9287-595c-457d-8e6a-130e4f71ff60",
+      "position": [
+        -2.9692760420338438,
+        2.151071252016324,
+        0.29147678186951786
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        5.532450691966397,
+        2.509817955177022,
+        5.532450691966374
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consumo_responsable_Araza.jpg"
+        }
+      },
+      "parentId": "96e4965b-c7c6-4995-80ea-9406b14063c8",
+      "components": {
+        "2afe0ff3-f18b-41e1-bf00-cf38a62c3299": {
+          "id": "2afe0ff3-f18b-41e1-bf00-cf38a62c3299",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "96e4965b-c7c6-4995-80ea-9406b14063c8"
+            },
+            "activateOnClick": true
+          }
+        }
+      },
+      "name": "Info consumo araza",
+      "order": 10,
+      "disabled": true
+    },
+    "3606c7db-bc16-4a4b-ac5a-67c78b0c52e3": {
+      "id": "3606c7db-bc16-4a4b-ac5a-67c78b0c52e3",
+      "position": [
+        0.39870320390260394,
+        0.26224133749300726,
+        0.00677323104082328
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.11336617412373666,
+        0.2498957213939494,
+        0.11336617412373698
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "619e9287-595c-457d-8e6a-130e4f71ff60",
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "619e9287-595c-457d-8e6a-130e4f71ff60"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. r. araza",
+      "order": 11
+    },
+    "4ef36cb6-91ca-465c-9533-51a77076e8d9": {
+      "id": "4ef36cb6-91ca-465c-9533-51a77076e8d9",
+      "position": [
+        0.4237531254262379,
+        -0.1845847714912745,
+        0.010676529532584897
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09596981221144664,
+        0.09596981731823839,
+        0.09596981731823839
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_maceta.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {},
+      "name": "consiguelo en casa araza",
+      "order": 9.828706249042614,
+      "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
+    },
+    "9ba775fb-5629-4bc2-8034-a453301bdc6b": {
+      "id": "9ba775fb-5629-4bc2-8034-a453301bdc6b",
+      "position": [
+        -0.034537818243502216,
+        -0.18797907690715765,
+        0.009055934178024624
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09532890482871621,
+        0.09532890990140389,
+        0.09532890990140389
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_semilla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "c54a3732-4b08-4eab-88c6-49baf4c6c0d3": {
+          "id": "c54a3732-4b08-4eab-88c6-49baf4c6c0d3",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "85c2d343-a57e-4d4e-99a7-70ca5190d2b4"
+            },
+            "enabled": true
+          }
+        },
+        "1a753fbe-0f62-4e22-84ab-39018bf03c3a": {
+          "id": "1a753fbe-0f62-4e22-84ab-39018bf03c3a",
+          "name": "Panel Audio Manager",
+          "parameters": {}
+        }
+      },
+      "name": "Origen casabe",
+      "order": 9.188903470841002,
+      "hidden": false,
+      "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
+    },
+    "85c2d343-a57e-4d4e-99a7-70ca5190d2b4": {
+      "id": "85c2d343-a57e-4d4e-99a7-70ca5190d2b4",
+      "position": [
+        0.4149923911625004,
+        2.287878447649577,
+        0.10670435249120813
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.767652121005232,
+        2.611703627866145,
+        4.807224026315834
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Cosecha_Casabe.jpg"
+        }
+      },
+      "parentId": "9ba775fb-5629-4bc2-8034-a453301bdc6b",
+      "components": {
+        "6969a666-4855-4910-82cc-e9caf31b13b3": {
+          "id": "6969a666-4855-4910-82cc-e9caf31b13b3",
+          "name": "Audio Mute Button",
+          "parameters": {
+            "panelManager": {
+              "type": "entity",
+              "id": "9ba775fb-5629-4bc2-8034-a453301bdc6b"
+            },
+            "panelEntity": {
+              "type": "entity",
+              "id": "85c2d343-a57e-4d4e-99a7-70ca5190d2b4"
+            },
+            "soundOnIcon": {
+              "type": "entity",
+              "id": "a116cb78-c276-4208-905c-3d4ab2e3a358"
+            },
+            "mutedIcon": {
+              "type": "entity",
+              "id": "3f186268-a92d-4cab-a07e-bb4e3472e0fd"
+            }
+          }
+        }
+      },
+      "name": "Informacion origen casabe",
+      "order": 1,
+      "disabled": true
+    },
+    "1727635a-110c-4fab-815f-1e56e05eb864": {
+      "id": "1727635a-110c-4fab-815f-1e56e05eb864",
+      "position": [
+        0.4124501162908214,
+        0.2775052849951303,
+        0.009884244252427954
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.1135431947274973,
+        0.24228141373115356,
+        0.1374810874277888
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "85c2d343-a57e-4d4e-99a7-70ca5190d2b4",
+      "components": {
+        "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2": {
+          "id": "300efd6d-3c0c-4e49-bb03-1b06dbb86ff2",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "85c2d343-a57e-4d4e-99a7-70ca5190d2b4"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar info casabe",
+      "order": 2,
+      "hidden": false
+    },
+    "4916ce85-647e-46d3-844c-50083e3f3199": {
+      "id": "4916ce85-647e-46d3-844c-50083e3f3199",
+      "position": [
+        0.07700023608009443,
+        -0.18678715342946073,
+        0.0087566168732741
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09541751518841206,
+        0.09541752026581495,
+        0.09541752026581495
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_yuca.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6375e192-7be6-49fc-ad1f-ed590d4aa4ff": {
+          "id": "6375e192-7be6-49fc-ad1f-ed590d4aa4ff",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "dc92ecb6-a5a4-455d-92a9-dd87dfdfac65"
+            }
+          }
+        }
+      },
+      "name": "Cosecha casabe",
+      "order": 9.22813165403139,
+      "hidden": false,
+      "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
+    },
+    "dc92ecb6-a5a4-455d-92a9-dd87dfdfac65": {
+      "id": "dc92ecb6-a5a4-455d-92a9-dd87dfdfac65",
+      "position": [
+        -0.75371173147572,
+        2.2758238191145903,
+        0.2533495447829113
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.755996535596804,
+        2.5936762758922605,
+        5.75599653559681
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Cosecha_Casabe.jpg"
+        }
+      },
+      "parentId": "4916ce85-647e-46d3-844c-50083e3f3199",
+      "components": {
+        "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c": {
+          "id": "a9d4e9d5-d42d-4ea8-a065-76bdfff94e6c",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "4916ce85-647e-46d3-844c-50083e3f3199"
+            }
+          }
+        }
+      },
+      "name": "Info cosecha casabe",
+      "order": 4,
+      "hidden": false,
+      "disabled": true
+    },
+    "1d3ea0c9-4f25-4a08-98dc-a2a7534bff59": {
+      "id": "1d3ea0c9-4f25-4a08-98dc-a2a7534bff59",
+      "position": [
+        0.41281760456358363,
+        0.2653488778865265,
+        0.002257901708936222
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.10217672370650688,
+        0.22675492432877417,
+        0.10217672370650717
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "dc92ecb6-a5a4-455d-92a9-dd87dfdfac65",
+      "components": {
+        "5f0f0842-7a24-48c0-b5d4-60b3129b6b63": {
+          "id": "5f0f0842-7a24-48c0-b5d4-60b3129b6b63",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "dc92ecb6-a5a4-455d-92a9-dd87dfdfac65"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar cosecha casabe",
+      "order": 5
+    },
+    "8746151d-2306-4420-ac5e-eb96800c4abe": {
+      "id": "8746151d-2306-4420-ac5e-eb96800c4abe",
+      "position": [
+        0.1879788350371675,
+        -0.18494087040179452,
+        0.00936714488428013
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09780138595728548,
+        0.0978013911615401,
+        0.0978013911615401
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_olla.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "6c92e3dc-eae0-41e3-b691-1c68a646ad76": {
+          "id": "6c92e3dc-eae0-41e3-b691-1c68a646ad76",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "1b56f6cb-af7c-412f-9424-0c6f35519932"
+            }
+          }
+        }
+      },
+      "name": "Preparacion casabe",
+      "order": 9.267359837221775,
+      "hidden": false,
+      "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
+    },
+    "1b56f6cb-af7c-412f-9424-0c6f35519932": {
+      "id": "1b56f6cb-af7c-412f-9424-0c6f35519932",
+      "position": [
+        -1.86123843305906,
+        2.1621798247730517,
+        0.18012703479570624
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.583932370539435,
+        2.527106572969421,
+        5.705613953997515
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Preparacion_Casabe.jpg"
+        }
+      },
+      "parentId": "8746151d-2306-4420-ac5e-eb96800c4abe",
+      "components": {
+        "202dc573-4244-4edb-81a7-a54b03b165b0": {
+          "id": "202dc573-4244-4edb-81a7-a54b03b165b0",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "8746151d-2306-4420-ac5e-eb96800c4abe"
+            }
+          }
+        }
+      },
+      "name": "Info preparacion casabe",
+      "order": 7,
+      "hidden": false,
+      "disabled": true
+    },
+    "e6c65a71-c455-4bf0-a9a3-a6f03622f744": {
+      "id": "e6c65a71-c455-4bf0-a9a3-a6f03622f744",
+      "position": [
+        0.41380359379092835,
+        0.2649419606082777,
+        0.008305379333913648
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.10366653462924154,
+        0.22906312090260728,
+        0.10145567560740743
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "1b56f6cb-af7c-412f-9424-0c6f35519932",
+      "components": {
+        "a32c508b-497f-4ec8-a7ad-017cef00d4fb": {
+          "id": "a32c508b-497f-4ec8-a7ad-017cef00d4fb",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "1b56f6cb-af7c-412f-9424-0c6f35519932"
+            },
+            "activateOnClick": false
+          }
+        }
+      },
+      "name": "cerrar preparacion casabe",
+      "order": 8
+    },
+    "84900a38-6c8c-47c9-9c29-c7aee5822626": {
+      "id": "84900a38-6c8c-47c9-9c29-c7aee5822626",
+      "position": [
+        0.2984547185437222,
+        -0.1843944725869464,
+        0.009914776893881302
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09870874552075633,
+        0.09870875077329387,
+        0.09870875077329387
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_responsable.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "aff59e1d-69a3-4547-9b9b-e73602d26c37": {
+          "id": "aff59e1d-69a3-4547-9b9b-e73602d26c37",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "580f0330-08fa-47a0-8275-33022fab8832"
+            }
+          }
+        }
+      },
+      "name": "Consumo Resposable casabe",
+      "order": 9.306588020412164,
+      "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
+    },
+    "580f0330-08fa-47a0-8275-33022fab8832": {
+      "id": "580f0330-08fa-47a0-8275-33022fab8832",
+      "position": [
+        -2.9692760420338438,
+        2.151071252016324,
+        0.29147678186951786
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.532450691966397,
+        2.509817955177022,
+        5.532450691966374
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consumo_responsable_Casabe.jpg"
+        }
+      },
+      "parentId": "84900a38-6c8c-47c9-9c29-c7aee5822626",
+      "components": {
+        "2afe0ff3-f18b-41e1-bf00-cf38a62c3299": {
+          "id": "2afe0ff3-f18b-41e1-bf00-cf38a62c3299",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "84900a38-6c8c-47c9-9c29-c7aee5822626"
+            },
+            "activateOnClick": true
+          }
+        }
+      },
+      "name": "Info consumo casabe",
+      "order": 10,
+      "disabled": true
+    },
+    "4a5002d1-fc0a-44e1-94f8-32dd2d5500a4": {
+      "id": "4a5002d1-fc0a-44e1-94f8-32dd2d5500a4",
+      "position": [
+        0.39870320390260394,
+        0.26224133749300726,
+        0.00677323104082328
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11336617412373666,
+        0.2498957213939494,
+        0.11336617412373698
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "parentId": "580f0330-08fa-47a0-8275-33022fab8832",
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "580f0330-08fa-47a0-8275-33022fab8832"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. r. casabe",
+      "order": 11
+    },
+    "69d54c95-860c-437d-973e-8a470003f5ce": {
+      "id": "69d54c95-860c-437d-973e-8a470003f5ce",
+      "position": [
+        0.4168759936017391,
+        -0.1855280789949758,
+        0.008743158238197032
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.09596981221144664,
+        0.09596981731823839,
+        0.09596981731823839
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_app_maceta.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {},
+      "name": "consiguelo en casa casabe",
+      "order": 9.345816203602553,
+      "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
+    },
+    "ff426fb3-d98c-41ec-b93a-fe828999b9f7": {
+      "id": "ff426fb3-d98c-41ec-b93a-fe828999b9f7",
+      "position": [
+        -2.0248469730683656,
+        0.07676789288316525,
+        -2.7019987463276083
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        1.1311602197384494,
+        0.6598909990398688,
+        1.1311602799302902
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Videos Chroma/Animacion_Araza.mp4"
+        }
+      },
+      "components": {
+        "a6163a7c-e245-4a2e-ac8c-6197c3d51f42": {
+          "id": "a6163a7c-e245-4a2e-ac8c-6197c3d51f42",
+          "name": "Chroma Key",
+          "parameters": {
+            "keyRed": 0,
+            "keyGreen": 187,
+            "keyBlue": 35,
+            "tolerance": 0.5
+          }
+        }
+      },
+      "name": "animacion araza",
+      "order": 1.8565366945008213,
+      "videoControls": {
+        "loop": true
+      },
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864"
+    },
+    "cf129e2c-3de1-4f61-9562-8d905201a723": {
+      "id": "cf129e2c-3de1-4f61-9562-8d905201a723",
+      "position": [
+        -0.005093957369996627,
+        0.009441195682570402,
+        0.03372301601536909
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.1311602197384494,
+        0.6598909990398688,
+        1.1311602799302904
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Videos Chroma/Animacion_Cananguncha.mp4"
+        }
+      },
+      "components": {
+        "a6163a7c-e245-4a2e-ac8c-6197c3d51f42": {
+          "id": "a6163a7c-e245-4a2e-ac8c-6197c3d51f42",
+          "name": "Chroma Key",
+          "parameters": {
+            "keyRed": 0,
+            "keyGreen": 187,
+            "keyBlue": 35,
+            "tolerance": 0.5
+          }
+        }
+      },
+      "name": "animacion Cananguncha",
+      "order": 9.10441763314018,
+      "videoControls": {
+        "loop": true
+      },
+      "parentId": "93940ac6-0fce-4705-b9ed-955d26bb4725"
+    },
+    "ad454014-2883-4915-9f50-23e8851179a7": {
+      "id": "ad454014-2883-4915-9f50-23e8851179a7",
+      "position": [
+        -0.0001417729304913351,
+        -0.0021803182325449387,
+        0.0035843084631599076
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.1311602197384494,
+        0.6598909990398688,
+        1.1311602799302904
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Videos Chroma/Animacion_Uva_Caimarona.mp4"
+        }
+      },
+      "components": {
+        "a6163a7c-e245-4a2e-ac8c-6197c3d51f42": {
+          "id": "a6163a7c-e245-4a2e-ac8c-6197c3d51f42",
+          "name": "Chroma Key",
+          "parameters": {
+            "keyRed": 0,
+            "keyGreen": 255,
+            "keyBlue": 28,
+            "tolerance": 0.5
+          }
+        }
+      },
+      "name": "animacion uva",
+      "order": 8.83744601322829,
+      "videoControls": {
+        "loop": true
+      },
+      "parentId": "0a513ce9-1d35-41d8-b630-88a256c9ab63"
     }
   },
   "spaces": {

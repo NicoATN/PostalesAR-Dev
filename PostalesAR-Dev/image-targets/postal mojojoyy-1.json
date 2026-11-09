@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 98,
+    "left": 0,
+    "width": 1181,
+    "height": 1574,
+    "isRotated": true,
+    "originalWidth": 1181,
+    "originalHeight": 1772
+  },
+  "imagePath": "image-targets/postal mojojoyy-1_luminance.jpg",
+  "metadata": null,
+  "name": "postal mojojoyy-1",
+  "resources": {
+    "originalImage": "postal mojojoyy-1_original.jpg",
+    "croppedImage": "postal mojojoyy-1_cropped.jpg",
+    "thumbnailImage": "postal mojojoyy-1_thumbnail.jpg",
+    "luminanceImage": "postal mojojoyy-1_luminance.jpg"
+  },
+  "created": 1794181145009,
+  "updated": 1794181145009
+}
