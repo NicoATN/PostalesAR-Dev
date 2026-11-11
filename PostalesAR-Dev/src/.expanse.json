@@ -5322,7 +5322,7 @@
           }
         }
       },
-      "name": "Plano (1)",
+      "name": "Animacion aji",
       "order": 1.692836354300768,
       "videoControls": {
         "paused": false,
@@ -5424,7 +5424,8 @@
         }
       },
       "name": "Info C. en A. Araza",
-      "order": 9.611319600232965
+      "order": 9.611319600232965,
+      "disabled": true
     },
     "938cf527-53a0-430b-a945-3794e8e62699": {
       "id": "938cf527-53a0-430b-a945-3794e8e62699",
@@ -6056,6 +6057,314 @@
       "name": "cerrar c. a. Cananguncha",
       "order": 1,
       "parentId": "f1b87c64-e860-465a-b0bc-650ab9352416"
+    },
+    "b4e64fdf-a16e-4c74-9499-e86144d2544f": {
+      "id": "b4e64fdf-a16e-4c74-9499-e86144d2544f",
+      "position": [
+        -0.043247248519495685,
+        -0.23396202899377783,
+        0.05131023099901216
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.12878046668425994,
+        0.12878046668425994,
+        0.12878046668425994
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "41af06c0-8701-4828-9342-325a1720b5eb",
+      "components": {
+        "16780a28-b754-46d4-8509-e8aa056a002f": {
+          "id": "16780a28-b754-46d4-8509-e8aa056a002f",
+          "name": "Open URL UI Button",
+          "parameters": {
+            "url": "https://entreraices.framer.website/"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_Pagina_web.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "Link pagina web",
+      "order": 4.804556137070797
+    },
+    "2aa59417-ef2e-4ce2-b4fc-a9a82e0342a7": {
+      "id": "2aa59417-ef2e-4ce2-b4fc-a9a82e0342a7",
+      "position": [
+        -0.3029333896294988,
+        0.20974406435436055,
+        0.14377907074083734
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.12878046668425994,
+        0.12878046668425994,
+        0.12878046668425994
+      ],
+      "geometry": null,
+      "material": null,
+      "components": {
+        "16780a28-b754-46d4-8509-e8aa056a002f": {
+          "id": "16780a28-b754-46d4-8509-e8aa056a002f",
+          "name": "Open URL UI Button",
+          "parameters": {
+            "url": "https://entreraices.framer.website/"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_Pagina_web.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "Link pagina web",
+      "order": 2.904805513542512,
+      "parentId": "ffa6b77e-9bee-4c16-bbd8-aeea0e90bac1"
+    },
+    "e65936b2-44f4-44c6-ad9f-f3a483e8d4cf": {
+      "id": "e65936b2-44f4-44c6-ad9f-f3a483e8d4cf",
+      "position": [
+        -0.23473387352822161,
+        0.2381956954621941,
+        0.04127750215932591
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.12878046668425994,
+        0.12878046668425994,
+        0.12878046668425994
+      ],
+      "geometry": null,
+      "material": null,
+      "components": {
+        "16780a28-b754-46d4-8509-e8aa056a002f": {
+          "id": "16780a28-b754-46d4-8509-e8aa056a002f",
+          "name": "Open URL UI Button",
+          "parameters": {
+            "url": "https://entreraices.framer.website/"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_Pagina_web.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "Link pagina web ",
+      "order": 10.356146377595861,
+      "parentId": "0a513ce9-1d35-41d8-b630-88a256c9ab63"
+    },
+    "e129ca4e-b4c9-4c3d-be72-ea6b2f63b4a8": {
+      "id": "e129ca4e-b4c9-4c3d-be72-ea6b2f63b4a8",
+      "position": [
+        -0.22075005960716754,
+        0.23130959746129443,
+        0.07732083714166438
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.12878046668425994,
+        0.12878046668425994,
+        0.12878046668425994
+      ],
+      "geometry": null,
+      "material": null,
+      "components": {
+        "16780a28-b754-46d4-8509-e8aa056a002f": {
+          "id": "16780a28-b754-46d4-8509-e8aa056a002f",
+          "name": "Open URL UI Button",
+          "parameters": {
+            "url": "https://entreraices.framer.website/"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_Pagina_web.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "Link pagina web ",
+      "order": 7.881348935864244,
+      "parentId": "33564249-5cb5-4fae-a393-1b8beba4a39a"
+    },
+    "a225c20e-a9cf-47d5-861a-9c6d1807dd14": {
+      "id": "a225c20e-a9cf-47d5-861a-9c6d1807dd14",
+      "position": [
+        0.22229103653425408,
+        0.24155161648597412,
+        0.07579671499344987
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.12878046668425994,
+        0.12878046668425994,
+        0.12878046668425994
+      ],
+      "geometry": null,
+      "material": null,
+      "components": {
+        "16780a28-b754-46d4-8509-e8aa056a002f": {
+          "id": "16780a28-b754-46d4-8509-e8aa056a002f",
+          "name": "Open URL UI Button",
+          "parameters": {
+            "url": "https://entreraices.framer.website/"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_Pagina_web.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "Link pagina web",
+      "order": 3.0632999533283773,
+      "parentId": "dcdf3a37-4073-43b1-ba03-6c81c8f967ce"
+    },
+    "299c2b2f-3480-49fb-b75d-3fa3dd874680": {
+      "id": "299c2b2f-3480-49fb-b75d-3fa3dd874680",
+      "position": [
+        0.16996052539751627,
+        -0.12609387308631054,
+        0.0533218652439828
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.12878046668425994,
+        0.12878046668425994,
+        0.12878046668425994
+      ],
+      "geometry": null,
+      "material": null,
+      "components": {
+        "16780a28-b754-46d4-8509-e8aa056a002f": {
+          "id": "16780a28-b754-46d4-8509-e8aa056a002f",
+          "name": "Open URL UI Button",
+          "parameters": {
+            "url": "https://entreraices.framer.website/"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_Pagina_web.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "Link pagina web ",
+      "order": 2.82257476153477,
+      "parentId": "79f378e4-6b85-4892-9da4-6fedff7720ba"
+    },
+    "d34626c5-530f-4bfe-83fc-ac62f66da51f": {
+      "id": "d34626c5-530f-4bfe-83fc-ac62f66da51f",
+      "position": [
+        0.025078679627750233,
+        -0.22790426741686365,
+        0.06339706337989243
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.12878046668425994,
+        0.12878046668425994,
+        0.12878046668425994
+      ],
+      "geometry": null,
+      "material": null,
+      "components": {
+        "16780a28-b754-46d4-8509-e8aa056a002f": {
+          "id": "16780a28-b754-46d4-8509-e8aa056a002f",
+          "name": "Open URL UI Button",
+          "parameters": {
+            "url": "https://entreraices.framer.website/"
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 100,
+        "image": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos_Pagina_web.png"
+        },
+        "backgroundOpacity": 1,
+        "backgroundSize": "contain"
+      },
+      "name": "Link pagina web ",
+      "order": 10.318194316720058,
+      "parentId": "93940ac6-0fce-4705-b9ed-955d26bb4725"
     }
   },
   "spaces": {
