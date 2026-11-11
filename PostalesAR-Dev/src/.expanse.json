@@ -28,47 +28,6 @@
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "order": 0.4038940050501252
     },
-    "729478ae-d067-4e0c-a753-66c2e9efb625": {
-      "components": {
-        "8fe14f4e-4311-4b03-807d-a34c9c11368d": {
-          "id": "8fe14f4e-4311-4b03-807d-a34c9c11368d",
-          "name": "example-component",
-          "parameters": {}
-        }
-      },
-      "geometry": {
-        "depth": 1,
-        "height": 1,
-        "type": "box",
-        "width": 1
-      },
-      "id": "729478ae-d067-4e0c-a753-66c2e9efb625",
-      "material": {
-        "color": "#7611b6",
-        "type": "basic",
-        "textureFiltering": "sharp"
-      },
-      "name": "Box",
-      "position": [
-        0.3482487697297435,
-        0.8522246408527798,
-        -0.3867374409480111
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.21712269484543542,
-        0.21712269484543542,
-        0.21712269484543542
-      ],
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
-      "order": 1.4918955728968863,
-      "hidden": true
-    },
     "a608ddd9-9379-464d-966f-5d8d8674c83c": {
       "camera": {
         "type": "perspective",
@@ -135,15 +94,15 @@
     "0a513ce9-1d35-41d8-b630-88a256c9ab63": {
       "id": "0a513ce9-1d35-41d8-b630-88a256c9ab63",
       "position": [
-        -2.0090045734819855,
-        0.08540384902102849,
-        -0.02636130236371448
+        -3.11062774996678,
+        0.5593796218515448,
+        -0.406674542684329
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -164,15 +123,15 @@
     "332e61de-88ca-4f1f-aba4-aee2d5c09d3c": {
       "id": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c",
       "position": [
-        -0.8999948741409705,
-        0.09014829481664666,
-        -0.02159981642573927
+        -2.001618050625765,
+        0.5641240676471629,
+        -0.4019130567463536
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -193,15 +152,15 @@
     "dcdf3a37-4073-43b1-ba03-6c81c8f967ce": {
       "id": "dcdf3a37-4073-43b1-ba03-6c81c8f967ce",
       "position": [
-        0.9132940504689055,
-        0.09775953113632707,
-        0
+        1.9099259102170123,
+        0.5717353039668434,
+        -0.41281327548644886
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -221,15 +180,15 @@
     "ffa6b77e-9bee-4c16-bbd8-aeea0e90bac1": {
       "id": "ffa6b77e-9bee-4c16-bbd8-aeea0e90bac1",
       "position": [
-        -2.0290960362329313,
-        0.07782177864911966,
-        -1.3146220078270945
+        -5.63741123545871,
+        0.5517975514796359,
+        -0.42155324496157975
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -249,15 +208,15 @@
     "230388a2-efcf-4555-a651-b9b7c8fba3b1": {
       "id": "230388a2-efcf-4555-a651-b9b7c8fba3b1",
       "position": [
-        -0.8605371344582062,
-        0.07119092066394084,
-        -1.3146220078270945
+        -4.4688523336839845,
+        0.5451666934944571,
+        -0.42155324496157975
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -277,15 +236,15 @@
     "4bd37af8-7c51-41a0-80c6-276a7ff1226b": {
       "id": "4bd37af8-7c51-41a0-80c6-276a7ff1226b",
       "position": [
-        2.1276466789802626,
-        0.09199641780909118,
-        0
+        3.1242785387283694,
+        0.5659721906396075,
+        -0.41281327548644886
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -305,15 +264,15 @@
     "79f378e4-6b85-4892-9da4-6fedff7720ba": {
       "id": "79f378e4-6b85-4892-9da4-6fedff7720ba",
       "position": [
-        0.8947555497472004,
-        0.07427189512079696,
-        -1.3558066199017746
+        4.426261023072538,
+        0.5482476679513132,
+        -0.4155193687849448
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -333,15 +292,15 @@
     "387ac8a5-dd0b-451d-a1e0-a709b016fbd2": {
       "id": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2",
       "position": [
-        2.1276466789802626,
-        0.09199641780909118,
-        -1.355491517409446
+        5.659152152305601,
+        0.5659721906396075,
+        -0.4152042662926163
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -361,15 +320,15 @@
     "87f91761-53b4-4aae-8238-b7e9bde725cf": {
       "id": "87f91761-53b4-4aae-8238-b7e9bde725cf",
       "position": [
-        -0.8698847500804651,
-        0.07119092066394084,
-        -2.702115810692926
+        -6.907195180924593,
+        0.5451666934944571,
+        -0.39453998681479696
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -389,15 +348,15 @@
     "41af06c0-8701-4828-9342-325a1720b5eb": {
       "id": "41af06c0-8701-4828-9342-325a1720b5eb",
       "position": [
-        -2.0271686100267736,
-        0.07119092066394084,
-        -2.702115810692926
+        -8.064479040870902,
+        0.5451666934944571,
+        -0.39453998681479696
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -417,15 +376,15 @@
     "2dd55dc5-a94c-45e7-bb55-5ea262ccc299": {
       "id": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299",
       "position": [
-        2.19596032744992,
-        0.07119092066394084,
-        -2.702115810692926
+        8.199028791976868,
+        0.5451666934944571,
+        -0.448716736250387
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -445,15 +404,15 @@
     "93940ac6-0fce-4705-b9ed-955d26bb4725": {
       "id": "93940ac6-0fce-4705-b9ed-955d26bb4725",
       "position": [
-        0.919315377420459,
-        0.07119092066394084,
-        -2.702115810692926
+        6.922383841947408,
+        0.5451666934944571,
+        -0.448716736250387
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -474,14 +433,14 @@
       "id": "33564249-5cb5-4fae-a393-1b8beba4a39a",
       "position": [
         -0.7776046512187617,
-        0.09775953113632707,
-        1.3885037126980184
+        0.5717353039668434,
+        -0.4227209496304374
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -501,15 +460,15 @@
     "017e50aa-6404-44b1-9498-269e78147804": {
       "id": "017e50aa-6404-44b1-9498-269e78147804",
       "position": [
-        0.6502669941244299,
-        0.09199641780909118,
-        1.3866506152040055
+        0.5537496782828799,
+        0.5659721906396075,
+        -0.4301762248285931
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         1,
@@ -534,10 +493,10 @@
         0.007038668450942379
       ],
       "rotation": [
-        -2.6606239322823923e-8,
         0,
         0,
-        0.9999999999999996
+        0,
+        1
       ],
       "scale": [
         0.0987535341104756,
@@ -589,7 +548,7 @@
         0.10670435249120813
       ],
       "rotation": [
-        -3.683280884122184e-9,
+        0,
         0,
         0,
         1
@@ -649,7 +608,7 @@
         0.009884244252427954
       ],
       "rotation": [
-        5.199545397422239e-9,
+        0,
         0,
         0,
         1
@@ -699,10 +658,10 @@
         0.006605650690619774
       ],
       "rotation": [
-        -2.6606239322823917e-8,
         0,
         0,
-        0.9999999999999996
+        0,
+        1
       ],
       "scale": [
         0.09884532774006242,
@@ -748,10 +707,10 @@
         0.2533495447829113
       ],
       "rotation": [
-        -7.64145136056284e-9,
         0,
         0,
-        0.9999999999999998
+        0,
+        1
       ],
       "scale": [
         5.755996535596804,
@@ -797,7 +756,7 @@
         0.002257901708936222
       ],
       "rotation": [
-        1.020075176179041e-8,
+        0,
         0,
         0,
         1
@@ -846,10 +805,10 @@
         0.00704199256049759
       ],
       "rotation": [
-        -2.6606240211002333e-8,
         0,
         0,
-        0.9999999999999996
+        0,
+        1
       ],
       "scale": [
         0.10131483752528334,
@@ -895,7 +854,7 @@
         0.18012703479570624
       ],
       "rotation": [
-        -9.321243221727136e-9,
+        0,
         0,
         0,
         1
@@ -944,10 +903,10 @@
         0.008305379333913648
       ],
       "rotation": [
-        1.258685483350576e-8,
         0,
         0,
-        0.9999999999999998
+        0,
+        1
       ],
       "scale": [
         0.10366653462924154,
@@ -993,10 +952,10 @@
         0.0075493193131181
       ],
       "rotation": [
-        -2.6606240655091553e-8,
         0,
         0,
-        0.9999999999999996
+        0,
+        1
       ],
       "scale": [
         0.1022547933945203,
@@ -1041,7 +1000,7 @@
         0.29147678186951786
       ],
       "rotation": [
-        -6.528681373296766e-9,
+        0,
         0,
         0,
         1
@@ -1090,7 +1049,7 @@
         0.00677323104082328
       ],
       "rotation": [
-        8.676545309030646e-9,
+        0,
         0,
         0,
         1
@@ -1139,10 +1098,10 @@
         0.006460235269671516
       ],
       "rotation": [
-        -2.6606238878734707e-8,
         0,
         0,
-        0.9999999999999996
+        0,
+        1
       ],
       "scale": [
         0.09941746567662382,
@@ -1164,7 +1123,18 @@
         "forceTransparent": true
       },
       "parentId": "017e50aa-6404-44b1-9498-269e78147804",
-      "components": {},
+      "components": {
+        "fb575290-d067-43da-9d94-c32f7488c73b": {
+          "id": "fb575290-d067-43da-9d94-c32f7488c73b",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "f860d2b7-80e2-473f-a618-ff5ba571bed6"
+            }
+          }
+        }
+      },
       "name": "consiguelo en casa mojojoy",
       "order": 18.746915320950027
     },
@@ -1176,10 +1146,10 @@
         0.0488163053626999
       ],
       "rotation": [
-        -2.9448448901625578e-8,
         0,
         0,
-        0.9999999999999996
+        0,
+        1
       ],
       "scale": [
         1.1311602197384494,
@@ -1250,7 +1220,18 @@
         },
         "forceTransparent": true
       },
-      "components": {},
+      "components": {
+        "f3a17078-64c7-4bf3-82ab-72b3e1eba52a": {
+          "id": "f3a17078-64c7-4bf3-82ab-72b3e1eba52a",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "23cc3cf6-a14c-40ff-a188-e52b4b387452"
+            }
+          }
+        }
+      },
       "name": "consiguelo en casa Uva",
       "order": 9.202673835875995,
       "parentId": "332e61de-88ca-4f1f-aba4-aee2d5c09d3c"
@@ -1894,7 +1875,7 @@
         0.10670435249120813
       ],
       "rotation": [
-        -3.683280884122184e-9,
+        0,
         0,
         0,
         1
@@ -1954,7 +1935,7 @@
         0.009884244252427954
       ],
       "rotation": [
-        5.199545397422239e-9,
+        0,
         0,
         0,
         1
@@ -2053,10 +2034,10 @@
         0.2533495447829113
       ],
       "rotation": [
-        -7.64145136056284e-9,
         0,
         0,
-        0.9999999999999998
+        0,
+        1
       ],
       "scale": [
         5.755996535596804,
@@ -2102,7 +2083,7 @@
         0.002257901708936222
       ],
       "rotation": [
-        1.020075176179041e-8,
+        0,
         0,
         0,
         1
@@ -2200,7 +2181,7 @@
         0.18012703479570624
       ],
       "rotation": [
-        -9.321243221727136e-9,
+        0,
         0,
         0,
         1
@@ -2249,10 +2230,10 @@
         0.008305379333913648
       ],
       "rotation": [
-        1.258685483350576e-8,
         0,
         0,
-        0.9999999999999998
+        0,
+        1
       ],
       "scale": [
         0.10366653462924154,
@@ -2346,7 +2327,7 @@
         0.29147678186951786
       ],
       "rotation": [
-        -6.528681373296766e-9,
+        0,
         0,
         0,
         1
@@ -2395,7 +2376,7 @@
         0.00677323104082328
       ],
       "rotation": [
-        8.676545309030646e-9,
+        0,
         0,
         0,
         1
@@ -2468,7 +2449,18 @@
         },
         "forceTransparent": true
       },
-      "components": {},
+      "components": {
+        "31c6aefa-72a5-494d-b6b8-c030dbafadba": {
+          "id": "31c6aefa-72a5-494d-b6b8-c030dbafadba",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "30ec697e-ef2a-418d-a4fe-c9da5c82e279"
+            }
+          }
+        }
+      },
       "name": "consiguelo en casa chontaduro",
       "order": 12.208001861639609,
       "parentId": "4bd37af8-7c51-41a0-80c6-276a7ff1226b"
@@ -2575,8 +2567,7 @@
       "name": "Cosecha aji negro",
       "order": 12.956793699302438,
       "hidden": false,
-      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2",
-      "disabled": true
+      "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
     },
     "f1ceea60-6a9e-4f9e-aaf1-2e8f143cee51": {
       "id": "f1ceea60-6a9e-4f9e-aaf1-2e8f143cee51",
@@ -2707,7 +2698,18 @@
         },
         "forceTransparent": true
       },
-      "components": {},
+      "components": {
+        "6c97c0eb-37d4-450b-810b-d659cd8f1466": {
+          "id": "6c97c0eb-37d4-450b-810b-d659cd8f1466",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "a56b8dbd-c3bc-4ad8-8605-ba3a991b6bc5"
+            }
+          }
+        }
+      },
       "name": "consiguelo en casa aji negro",
       "order": 13.46346193569091,
       "parentId": "387ac8a5-dd0b-451d-a1e0-a709b016fbd2"
@@ -2720,7 +2722,7 @@
         0.10670435249120813
       ],
       "rotation": [
-        -3.683280884122184e-9,
+        0,
         0,
         0,
         1
@@ -2780,7 +2782,7 @@
         0.009884244252427954
       ],
       "rotation": [
-        5.199545397422239e-9,
+        0,
         0,
         0,
         1
@@ -2830,10 +2832,10 @@
         0.2533495447829113
       ],
       "rotation": [
-        -7.64145136056284e-9,
         0,
         0,
-        0.9999999999999998
+        0,
+        1
       ],
       "scale": [
         5.755996535596804,
@@ -2868,7 +2870,8 @@
       },
       "name": "Info cosecha aji negro",
       "order": 7,
-      "hidden": false
+      "hidden": false,
+      "disabled": true
     },
     "13c96dc3-a47e-49fc-82b4-bb261b4e6eee": {
       "id": "13c96dc3-a47e-49fc-82b4-bb261b4e6eee",
@@ -2878,7 +2881,7 @@
         0.002257901708936222
       ],
       "rotation": [
-        1.020075176179041e-8,
+        0,
         0,
         0,
         1
@@ -2927,7 +2930,7 @@
         0.18012703479570624
       ],
       "rotation": [
-        -9.321243221727136e-9,
+        0,
         0,
         0,
         1
@@ -2976,10 +2979,10 @@
         0.008305379333913648
       ],
       "rotation": [
-        1.258685483350576e-8,
         0,
         0,
-        0.9999999999999998
+        0,
+        1
       ],
       "scale": [
         0.10366653462924154,
@@ -3025,7 +3028,7 @@
         0.29147678186951786
       ],
       "rotation": [
-        -6.528681373296766e-9,
+        0,
         0,
         0,
         1
@@ -3074,7 +3077,7 @@
         0.00677323104082328
       ],
       "rotation": [
-        8.676545309030646e-9,
+        0,
         0,
         0,
         1
@@ -3348,7 +3351,18 @@
         },
         "forceTransparent": true
       },
-      "components": {},
+      "components": {
+        "e75b0980-b8aa-445b-824d-0d480394eb08": {
+          "id": "e75b0980-b8aa-445b-824d-0d480394eb08",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "f1b87c64-e860-465a-b0bc-650ab9352416"
+            }
+          }
+        }
+      },
       "name": "consiguelo en casa cananguncha",
       "order": 10.269093277839703,
       "parentId": "2dd55dc5-a94c-45e7-bb55-5ea262ccc299"
@@ -3820,10 +3834,10 @@
         0.10670435249120813
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         5.767652121005232,
@@ -3880,10 +3894,10 @@
         0.009884244252427954
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         0.1135431947274973,
@@ -3979,10 +3993,10 @@
         0.2533495447829113
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         5.755996535596804,
@@ -4028,10 +4042,10 @@
         0.002257901708936222
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         0.10217672370650688,
@@ -4126,10 +4140,10 @@
         0.18012703479570624
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         5.583932370539435,
@@ -4175,10 +4189,10 @@
         0.008305379333913648
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         0.10366653462924154,
@@ -4272,10 +4286,10 @@
         0.29147678186951786
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         5.532450691966397,
@@ -4321,10 +4335,10 @@
         0.00677323104082328
       ],
       "rotation": [
-        -0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
         0.11336617412373666,
@@ -4394,7 +4408,18 @@
         },
         "forceTransparent": true
       },
-      "components": {},
+      "components": {
+        "9e07c196-1356-41bd-8def-39e2e2a013a0": {
+          "id": "9e07c196-1356-41bd-8def-39e2e2a013a0",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "e0b5d6ec-9c64-47e3-8ae4-c85d656b8724"
+            }
+          }
+        }
+      },
       "name": "consiguelo en casa araza",
       "order": 9.828706249042614,
       "parentId": "87f91761-53b4-4aae-8238-b7e9bde725cf"
@@ -5036,7 +5061,18 @@
         },
         "forceTransparent": true
       },
-      "components": {},
+      "components": {
+        "39de1be8-a644-45e2-bca3-fbdc1b060b00": {
+          "id": "39de1be8-a644-45e2-bca3-fbdc1b060b00",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "ffc0edfd-5ceb-4177-92b3-76e723399d16"
+            }
+          }
+        }
+      },
       "name": "consiguelo en casa casabe",
       "order": 9.345816203602553,
       "parentId": "230388a2-efcf-4555-a651-b9b7c8fba3b1"
@@ -5080,7 +5116,7 @@
             "keyRed": 0,
             "keyGreen": 187,
             "keyBlue": 35,
-            "tolerance": 0.05
+            "tolerance": 0.3
           }
         }
       },
@@ -5130,7 +5166,7 @@
             "keyRed": 0,
             "keyGreen": 255,
             "keyBlue": 28,
-            "tolerance": 0.08
+            "tolerance": 0.4
           }
         }
       },
@@ -5149,10 +5185,10 @@
         0.016772098763470522
       ],
       "rotation": [
-        -2.6606238767712414e-8,
         0,
         0,
-        0.9999999999999996
+        0,
+        1
       ],
       "scale": [
         1.0155371353508809,
@@ -5180,7 +5216,8 @@
           "parameters": {
             "keyRed": 0,
             "keyGreen": 187,
-            "keyBlue": 35
+            "keyBlue": 35,
+            "tolerance": 0.3
           }
         }
       },
@@ -5189,6 +5226,836 @@
       "videoControls": {
         "loop": true
       }
+    },
+    "38b94c09-a9f4-44f7-9bf7-79fd7896d7cc": {
+      "id": "38b94c09-a9f4-44f7-9bf7-79fd7896d7cc",
+      "position": [
+        -2.220446049250313e-15,
+        -1.1102230246251565e-16,
+        0.007474479686781166
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.2378208441061063,
+        0.7421167372122761,
+        1.2378208441061063
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Videos Chroma/Animacion_casabe.mp4"
+        }
+      },
+      "parentId": "ffa6b77e-9bee-4c16-bbd8-aeea0e90bac1",
+      "components": {
+        "9c0ef9d2-325c-4482-9bfa-39510d747d63": {
+          "id": "9c0ef9d2-325c-4482-9bfa-39510d747d63",
+          "name": "Chroma Key",
+          "parameters": {
+            "enabled": true,
+            "keyRed": 0,
+            "keyGreen": 255,
+            "keyBlue": 28,
+            "tolerance": 0.4
+          }
+        }
+      },
+      "name": "Plano",
+      "order": 1.0479195478690388,
+      "videoControls": {
+        "loop": true
+      }
+    },
+    "c67a3862-79fa-4e95-9394-dcd222e28938": {
+      "id": "c67a3862-79fa-4e95-9394-dcd222e28938",
+      "position": [
+        -0.02328283363543271,
+        0.06399861550940833,
+        0.014715621944175084
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.2195096257329743,
+        0.8154219098172479,
+        1.2195096257329743
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Videos Chroma/Animacion_Aji_negro.mp4"
+        }
+      },
+      "parentId": "79f378e4-6b85-4892-9da4-6fedff7720ba",
+      "components": {
+        "25c26eb8-6a82-49c0-a713-7fcbaa96dc32": {
+          "id": "25c26eb8-6a82-49c0-a713-7fcbaa96dc32",
+          "name": "Chroma Key",
+          "parameters": {
+            "keyRed": 0,
+            "keyGreen": 255,
+            "keyBlue": 28,
+            "tolerance": 0.4
+          }
+        }
+      },
+      "name": "Plano (1)",
+      "order": 1.692836354300768,
+      "videoControls": {
+        "paused": false,
+        "loop": true
+      }
+    },
+    "e75e35f4-74bb-495f-874b-af42feb96000": {
+      "id": "e75e35f4-74bb-495f-874b-af42feb96000",
+      "position": [
+        0,
+        2.220446049250313e-16,
+        0.014922261260300829
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.2910052226824726,
+        0.6966284538209253,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Videos Chroma/Animacion_chontaduro.mp4"
+        }
+      },
+      "parentId": "dcdf3a37-4073-43b1-ba03-6c81c8f967ce",
+      "components": {
+        "99ad5387-9195-4d6c-8571-beeda9839470": {
+          "id": "99ad5387-9195-4d6c-8571-beeda9839470",
+          "name": "Chroma Key",
+          "parameters": {
+            "keyRed": 0,
+            "keyGreen": 255,
+            "keyBlue": 28,
+            "tolerance": 0.4
+          }
+        }
+      },
+      "name": "Animacion chontaduro",
+      "order": 1.2350712161675705,
+      "videoControls": {
+        "loop": true
+      }
+    },
+    "e0b5d6ec-9c64-47e3-8ae4-c85d656b8724": {
+      "id": "e0b5d6ec-9c64-47e3-8ae4-c85d656b8724",
+      "position": [
+        -4.253773450174052,
+        2.220326808262528,
+        0.4037524946793156
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.591803403237583,
+        2.5180961128564308,
+        4.953271107693694
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consiguelo_desde_casa_Araza.jpg"
+        }
+      },
+      "parentId": "4ef36cb6-91ca-465c-9533-51a77076e8d9",
+      "components": {
+        "723005ff-88f6-4fa6-bd0b-56d86847bab5": {
+          "id": "723005ff-88f6-4fa6-bd0b-56d86847bab5",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "4ef36cb6-91ca-465c-9533-51a77076e8d9"
+            }
+          }
+        }
+      },
+      "name": "Info C. en A. Araza",
+      "order": 9.611319600232965
+    },
+    "938cf527-53a0-430b-a945-3794e8e62699": {
+      "id": "938cf527-53a0-430b-a945-3794e8e62699",
+      "position": [
+        0.3894863125051504,
+        0.25762129231106456,
+        0.022819721925026237
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11551643538004908,
+        0.2585998459031127,
+        0.13040779478279965
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "e0b5d6ec-9c64-47e3-8ae4-c85d656b8724"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. a. araza ",
+      "order": 12.48260655660248,
+      "parentId": "e0b5d6ec-9c64-47e3-8ae4-c85d656b8724"
+    },
+    "ffc0edfd-5ceb-4177-92b3-76e723399d16": {
+      "id": "ffc0edfd-5ceb-4177-92b3-76e723399d16",
+      "position": [
+        -4.346378987716193,
+        2.330686677588275,
+        0.3949618426429029
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        5.161671296606116,
+        2.3243992678046173,
+        4.572255871083752
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consiguelo_desde_casa_Casabe.jpg"
+        }
+      },
+      "components": {
+        "723005ff-88f6-4fa6-bd0b-56d86847bab5": {
+          "id": "723005ff-88f6-4fa6-bd0b-56d86847bab5",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "69d54c95-860c-437d-973e-8a470003f5ce"
+            }
+          }
+        }
+      },
+      "name": "Info C. en A. Caasabe",
+      "order": 11.320378012054112,
+      "parentId": "69d54c95-860c-437d-973e-8a470003f5ce",
+      "disabled": true
+    },
+    "a5aa6a2e-79a2-4062-bbe9-a56c1eec2f67": {
+      "id": "a5aa6a2e-79a2-4062-bbe9-a56c1eec2f67",
+      "position": [
+        0.3894863125051504,
+        0.25762129231106456,
+        0.022819721925026237
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11551643538004908,
+        0.2585998459031127,
+        0.13040779478279965
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "ffc0edfd-5ceb-4177-92b3-76e723399d16"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. a. Casabe",
+      "order": 1,
+      "parentId": "ffc0edfd-5ceb-4177-92b3-76e723399d16"
+    },
+    "23cc3cf6-a14c-40ff-a188-e52b4b387452": {
+      "id": "23cc3cf6-a14c-40ff-a188-e52b4b387452",
+      "position": [
+        -4.239589640630609,
+        2.481211169473923,
+        1.238720454475701
+      ],
+      "rotation": [
+        -3.308722455836599e-24,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        6.377811565456381,
+        2.8720504815349295,
+        5.6495240977467125
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consiguelo_desde_casa_Uva.jpg"
+        }
+      },
+      "components": {
+        "723005ff-88f6-4fa6-bd0b-56d86847bab5": {
+          "id": "723005ff-88f6-4fa6-bd0b-56d86847bab5",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "ec14d99b-292c-4929-87d5-b7e15c6ec006"
+            }
+          }
+        }
+      },
+      "name": "Info C. en A. Uva",
+      "order": 10.987322404184992,
+      "parentId": "ec14d99b-292c-4929-87d5-b7e15c6ec006",
+      "disabled": true
+    },
+    "0c3a684d-a858-4d1c-8da9-8a52fd77de2c": {
+      "id": "0c3a684d-a858-4d1c-8da9-8a52fd77de2c",
+      "position": [
+        0.3894863125051504,
+        0.25762129231106456,
+        0.022819721925026237
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11551643538004908,
+        0.2585998459031127,
+        0.13040779478279965
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "23cc3cf6-a14c-40ff-a188-e52b4b387452"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. a. Uva",
+      "order": 1,
+      "parentId": "23cc3cf6-a14c-40ff-a188-e52b4b387452"
+    },
+    "f860d2b7-80e2-473f-a618-ff5ba571bed6": {
+      "id": "f860d2b7-80e2-473f-a618-ff5ba571bed6",
+      "position": [
+        -4.151407731715865,
+        2.1090187638822226,
+        0.2792367080982894
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        6.139934269878494,
+        2.764929787500781,
+        5.4388102031950245
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consiguelo_desde_casa_mojojoy.jpg"
+        }
+      },
+      "components": {
+        "723005ff-88f6-4fa6-bd0b-56d86847bab5": {
+          "id": "723005ff-88f6-4fa6-bd0b-56d86847bab5",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "da7f613b-ae23-47e1-909d-7068a25b42f8"
+            }
+          }
+        }
+      },
+      "name": "Info C. en A. Mojojoy",
+      "order": 20.10511815434074,
+      "parentId": "da7f613b-ae23-47e1-909d-7068a25b42f8",
+      "disabled": true
+    },
+    "49379256-5b8e-4fa0-95ee-50e2d8235825": {
+      "id": "49379256-5b8e-4fa0-95ee-50e2d8235825",
+      "position": [
+        0.3894863125051504,
+        0.25762129231106456,
+        0.022819721925026237
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11551643538004908,
+        0.2585998459031127,
+        0.13040779478279965
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "f860d2b7-80e2-473f-a618-ff5ba571bed6"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. a. Mojojoy",
+      "order": 1,
+      "parentId": "f860d2b7-80e2-473f-a618-ff5ba571bed6"
+    },
+    "30ec697e-ef2a-418d-a4fe-c9da5c82e279": {
+      "id": "30ec697e-ef2a-418d-a4fe-c9da5c82e279",
+      "position": [
+        -4.274532580247417,
+        2.4358170023057895,
+        0.3022543649724483
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        7.372051004774069,
+        3.319775509335914,
+        6.530230530307101
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consiguelo_en_casa_Chontaduro.jpg"
+        }
+      },
+      "components": {
+        "723005ff-88f6-4fa6-bd0b-56d86847bab5": {
+          "id": "723005ff-88f6-4fa6-bd0b-56d86847bab5",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "1da2ab3f-04d0-4c1d-a69e-2dcf9768e962"
+            }
+          }
+        }
+      },
+      "name": "Info C. en A. Chontaduro",
+      "order": 13.875537740702281,
+      "parentId": "1da2ab3f-04d0-4c1d-a69e-2dcf9768e962",
+      "disabled": true
+    },
+    "08cc1754-c9c4-4916-8552-d7a70d1c6e1a": {
+      "id": "08cc1754-c9c4-4916-8552-d7a70d1c6e1a",
+      "position": [
+        0.3894863125051504,
+        0.25762129231106456,
+        0.022819721925026237
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11551643538004908,
+        0.2585998459031127,
+        0.13040779478279965
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "30ec697e-ef2a-418d-a4fe-c9da5c82e279"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. a. Chontaduro",
+      "order": 1,
+      "parentId": "30ec697e-ef2a-418d-a4fe-c9da5c82e279"
+    },
+    "a56b8dbd-c3bc-4ad8-8605-ba3a991b6bc5": {
+      "id": "a56b8dbd-c3bc-4ad8-8605-ba3a991b6bc5",
+      "position": [
+        -4.219867958425425,
+        2.727048521007014,
+        1.2999410149007513
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        6.632381334481177,
+        2.986688115495755,
+        5.875024338684059
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consiguelo_desde_casa_Aji_negro.jpg"
+        }
+      },
+      "components": {
+        "723005ff-88f6-4fa6-bd0b-56d86847bab5": {
+          "id": "723005ff-88f6-4fa6-bd0b-56d86847bab5",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "c25bda5a-2b92-4a60-aec9-bfd956569ad2"
+            }
+          }
+        }
+      },
+      "name": "Info C. en A. Aji negro",
+      "order": 14.94532272639691,
+      "parentId": "c25bda5a-2b92-4a60-aec9-bfd956569ad2",
+      "disabled": true
+    },
+    "910c8b4f-5811-4006-974d-09cc9c90605e": {
+      "id": "910c8b4f-5811-4006-974d-09cc9c90605e",
+      "position": [
+        0.3894863125051504,
+        0.25762129231106456,
+        0.022819721925026237
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11551643538004908,
+        0.2585998459031127,
+        0.13040779478279965
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "a56b8dbd-c3bc-4ad8-8605-ba3a991b6bc5"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. a. Aji negro",
+      "order": 1,
+      "parentId": "a56b8dbd-c3bc-4ad8-8605-ba3a991b6bc5"
+    },
+    "f1b87c64-e860-465a-b0bc-650ab9352416": {
+      "id": "f1b87c64-e860-465a-b0bc-650ab9352416",
+      "position": [
+        -4.159753809161515,
+        2.373185636665384,
+        0.2929330879595966
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        6.970062900413447,
+        3.1387525805693404,
+        6.174145773132192
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Interfaces/Consiguelo_desde_casa_Araza.jpg"
+        }
+      },
+      "components": {
+        "723005ff-88f6-4fa6-bd0b-56d86847bab5": {
+          "id": "723005ff-88f6-4fa6-bd0b-56d86847bab5",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "7e57dfb8-dd58-4098-886a-5150d42b1676"
+            }
+          }
+        }
+      },
+      "name": "Info C. en A. Cananguncha",
+      "order": 11.947315089613666,
+      "parentId": "7e57dfb8-dd58-4098-886a-5150d42b1676",
+      "disabled": true
+    },
+    "2726c9c9-5d30-41a1-bdc9-cc1b3bc996c3": {
+      "id": "2726c9c9-5d30-41a1-bdc9-cc1b3bc996c3",
+      "position": [
+        0.3894863125051504,
+        0.25762129231106456,
+        0.022819721925026237
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.11551643538004908,
+        0.2585998459031127,
+        0.13040779478279965
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Icons/iconos-x.png"
+        },
+        "forceTransparent": true
+      },
+      "components": {
+        "2f72eb8f-b958-4773-bdff-9eaf56dd0300": {
+          "id": "2f72eb8f-b958-4773-bdff-9eaf56dd0300",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "f1b87c64-e860-465a-b0bc-650ab9352416"
+            }
+          }
+        }
+      },
+      "name": "cerrar c. a. Cananguncha",
+      "order": 1,
+      "parentId": "f1b87c64-e860-465a-b0bc-650ab9352416"
     }
   },
   "spaces": {
